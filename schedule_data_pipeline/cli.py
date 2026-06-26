@@ -1,4 +1,5 @@
 import argparse
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -17,8 +18,13 @@ def run(argv=None):
         return run_validate(args)
     if args.command == "publish":
         from schedule_data_pipeline.publisher import publish_from_disk
+        from schedule_data_pipeline.publisher import UploadFailure
 
-        publish_from_disk(args.mobile_dir, args.raw_dir)
+        try:
+            publish_from_disk(args.mobile_dir, args.raw_dir)
+        except UploadFailure as exc:
+            sys.stderr.write(f"{exc}\n")
+            return 1
         return 0
     parser.error(f"unknown command: {args.command}")
 
