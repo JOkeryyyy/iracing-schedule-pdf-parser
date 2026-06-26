@@ -1,14 +1,14 @@
 {
-  "carsFile": "releases/2026-s3/febb8cce/cars.json",
+  "carsFile": "releases/2026-s3/b973e3f6/cars.json",
   "checksums": {
-    "releases/2026-s3/febb8cce/cars.json": "sha256:7dd74c4922e1b194e84971dddce9c33d060d1f86a791938817c2531db7fe6124",
-    "releases/2026-s3/febb8cce/season.json": "sha256:2795bc438c6b5ac0f6a5d133cfebc84e04a40547a745793cfaf118445833aedd",
-    "releases/2026-s3/febb8cce/tracks.json": "sha256:78e868e44221abb9399694fccde2077a43edc835a557e0cedfb679971f0d41e3"
+    "releases/2026-s3/b973e3f6/cars.json": "sha256:8dda9b0cb80f179484b3e4a2f5f23374140c7b01d494c66a3622520ea1bb5706",
+    "releases/2026-s3/b973e3f6/season.json": "sha256:6e32089e6ff7f2a459fbbb838939ce8ed859e494acab1914dcdda094f60abac9",
+    "releases/2026-s3/b973e3f6/tracks.json": "sha256:38127b5a9d4e2bdc17f263af76c4916fa8eada65dc88ce100571770366b1cd17"
   },
-  "generatedAt": "2026-06-26T15:46:50Z",
-  "revision": "febb8cce",
+  "generatedAt": "2026-06-26T15:05:47Z",
+  "revision": "b973e3f6",
   "schemaVersion": 1,
-  "seasonFile": "releases/2026-s3/febb8cce/season.json",
+  "seasonFile": "releases/2026-s3/b973e3f6/season.json",
   "seasonId": "2026-s3",
-  "tracksFile": "releases/2026-s3/febb8cce/tracks.json"
+  "tracksFile": "releases/2026-s3/b973e3f6/tracks.json"
 }

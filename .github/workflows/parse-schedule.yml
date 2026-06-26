@@ -61,13 +61,15 @@ jobs:
 
       - name: Build mobile JSON
         run: |
+          GENERATED_AT="$(date -u -d "$(git log -1 --format=%cI -- data/source/SeasonSchedule.pdf)" +"%Y-%m-%dT%H:%M:%SZ")"
           python -m schedule_data_pipeline.cli build \
             --raw-dir data/generated \
             --output-dir data/mobile/v1 \
             --season-id "$IWP_SEASON_ID" \
             --season-name "$IWP_SEASON_NAME" \
             --season-start "$IWP_SEASON_START" \
-            --season-end "$IWP_SEASON_END"
+            --season-end "$IWP_SEASON_END" \
+            --generated-at "$GENERATED_AT"
 
       - name: Validate mobile JSON
         run: python -m schedule_data_pipeline.cli validate --mobile-dir data/mobile/v1

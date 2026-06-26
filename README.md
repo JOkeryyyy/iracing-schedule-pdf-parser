@@ -32,7 +32,8 @@ python3 -m schedule_data_pipeline.cli build \
   --season-id 2026-s3 \
   --season-name "2026 Season 3" \
   --season-start 2026-06-16 \
-  --season-end 2026-09-08
+  --season-end 2026-09-08 \
+  --generated-at "$(date -u -r "$(git log -1 --format=%ct -- data/source/SeasonSchedule.pdf)" +%Y-%m-%dT%H:%M:%SZ)"
 python3 -m schedule_data_pipeline.cli validate --mobile-dir data/mobile/v1
 ```
 
@@ -41,7 +42,7 @@ For editable installation:
 ```sh
 python3 -m pip install -e .
 iracing-schedule-pdf data/source/SeasonSchedule.pdf --output-dir data/generated
-iracing-schedule-data build --raw-dir data/generated --output-dir data/mobile/v1 --season-id 2026-s3 --season-name "2026 Season 3" --season-start 2026-06-16 --season-end 2026-09-08
+iracing-schedule-data build --raw-dir data/generated --output-dir data/mobile/v1 --season-id 2026-s3 --season-name "2026 Season 3" --season-start 2026-06-16 --season-end 2026-09-08 --generated-at "$(date -u -r "$(git log -1 --format=%ct -- data/source/SeasonSchedule.pdf)" +%Y-%m-%dT%H:%M:%SZ)"
 ```
 
 The compatibility wrapper also works from the repository root:
