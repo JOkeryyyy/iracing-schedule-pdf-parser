@@ -18,9 +18,10 @@ dependencies = [
 
 [project.scripts]
 iracing-schedule-pdf = "pdf_schedule_parser.cli:main"
+iracing-schedule-data = "schedule_data_pipeline.cli:main"
 
 [tool.setuptools.packages.find]
-include = ["pdf_schedule_parser*"]
+include = ["pdf_schedule_parser*", "schedule_data_pipeline*"]
 
 [tool.unittest]
 start-directory = "tests"
