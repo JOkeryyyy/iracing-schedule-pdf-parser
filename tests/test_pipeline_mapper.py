@@ -91,6 +91,29 @@ class MapperTests(unittest.TestCase):
         self.assertEqual(bundle["tracks"]["tracks"][0]["type"], "oval")
         self.assertEqual(bundle["tracks"]["tracks"][0]["sourceTrackIds"], [])
 
+    def test_map_sessions_parses_common_raw_recurring_text(self):
+        self.assertEqual(
+            map_sessions({"raw": "Races hourly at the top of the hour"}),
+            [{"type": "recurring", "firstSessionOffsetMinutes": 0, "repeatEveryMinutes": 60}],
+        )
+        self.assertEqual(
+            map_sessions({"raw": "Races every 2 hours at :30 past"}),
+            [{"type": "recurring", "firstSessionOffsetMinutes": 30, "repeatEveryMinutes": 120}],
+        )
+        self.assertEqual(
+            map_sessions({"raw": "Races at :15 and :45"}),
+            [{"type": "recurring", "firstSessionOffsetMinutes": 15, "repeatEveryMinutes": 30}],
+        )
+
+    def test_map_sessions_parses_gmt_set_times(self):
+        self.assertEqual(
+            map_sessions({"raw": "Races on Saturday at 1 & 13 GMT"}),
+            [{"type": "setTimes", "offsetMinutes": [5820, 6540]}],
+        )
+
+    def test_map_sessions_uses_week_start_fallback_for_missing_schedule(self):
+        self.assertEqual(map_sessions({}), [{"type": "setTimes", "offsetMinutes": [0]}])
+
 
 def build_fixture_bundle():
     return build_mobile_bundle(
@@ -106,6 +129,9 @@ def build_fixture_bundle():
             generated_at="2026-06-26T00:00:00Z",
         ),
     )
+
+
+from schedule_data_pipeline.mapper import map_sessions
 
 
 if __name__ == "__main__":

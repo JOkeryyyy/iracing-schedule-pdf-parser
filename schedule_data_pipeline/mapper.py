@@ -1,4 +1,5 @@
 from datetime import date, timedelta
+import re
 
 from schedule_data_pipeline.models import MappingConfig, date_to_utc_midnight
 
@@ -218,7 +219,108 @@ def map_sessions(raw_schedule):
                 "repeatEveryMinutes": raw_schedule["intervalMinutes"],
             }
         ]
-    return []
+
+    raw_text = raw_schedule.get("raw", "")
+    recurring = parse_recurring_schedule(raw_text)
+    if recurring:
+        return [recurring]
+
+    set_times = parse_gmt_set_times(raw_text)
+    if set_times:
+        return [{"type": "setTimes", "offsetMinutes": set_times}]
+
+    return [{"type": "setTimes", "offsetMinutes": [0]}]
+
+
+def parse_recurring_schedule(raw_text):
+    normalized = raw_text.lower().replace("&", " and ")
+    if not normalized:
+        return None
+
+    repeat_every = None
+    if "30 minutes" in normalized or "thirty minutes" in normalized:
+        repeat_every = 30
+    elif "2 hours" in normalized or "every 2" in normalized:
+        repeat_every = 120
+    elif "hourly" in normalized or "every hour" in normalized or "on the hour every hour" in normalized:
+        repeat_every = 60
+
+    if repeat_every is None and re.search(r":15\s+and\s+:45", normalized):
+        repeat_every = 30
+
+    if repeat_every is None:
+        return None
+
+    offset = 0
+    minute_match = re.search(r":([0-5][0-9])", normalized)
+    past_match = re.search(r"races\s+([0-5]?[0-9])\s+past", normalized)
+    if "half past" in normalized:
+        offset = 30
+    elif "odd 2 hours on the hour" in normalized:
+        offset = 60
+    elif minute_match:
+        offset = int(minute_match.group(1))
+    elif past_match:
+        offset = int(past_match.group(1))
+
+    return {
+        "type": "recurring",
+        "firstSessionOffsetMinutes": offset,
+        "repeatEveryMinutes": repeat_every,
+    }
+
+
+DAY_OFFSETS = {
+    "tue": 0,
+    "tues": 0,
+    "tuesday": 0,
+    "wed": 1,
+    "weds": 1,
+    "wednesday": 1,
+    "thu": 2,
+    "thur": 2,
+    "thurs": 2,
+    "thursday": 2,
+    "fri": 3,
+    "friday": 3,
+    "sat": 4,
+    "saturday": 4,
+    "sun": 5,
+    "sunday": 5,
+    "mon": 6,
+    "monday": 6,
+}
+
+
+def parse_gmt_set_times(raw_text):
+    if "gmt" not in raw_text.lower():
+        return []
+
+    normalized = raw_text.lower()
+    offsets = []
+    day_pattern = "|".join(sorted(DAY_OFFSETS.keys(), key=len, reverse=True))
+    pattern = re.compile(
+        rf"((?:{day_pattern})(?:s)?(?:\s*(?:,|&|and)\s*(?:{day_pattern})(?:s)?)*)\s+(?:at\s+)?([0-9:,\s&and]+?)\s*gmt"
+    )
+    for match in pattern.finditer(normalized):
+        days_text = match.group(1)
+        times_text = match.group(2)
+        days = [day for day in re.split(r"\s*(?:,|&|and)\s*", days_text) if day in DAY_OFFSETS]
+        hours = parse_gmt_hours(times_text)
+        for day in days:
+            for hour in hours:
+                offsets.append(DAY_OFFSETS[day] * 24 * 60 + hour * 60)
+    return sorted(set(offsets))
+
+
+def parse_gmt_hours(times_text):
+    hours = []
+    cleaned = times_text.replace("&", ",").replace("and", ",")
+    for value in re.findall(r"\d{1,2}(?::00)?", cleaned):
+        hour = int(value.split(":", 1)[0])
+        if 0 <= hour <= 23:
+            hours.append(hour)
+    return hours
 
 
 def display_from_id(value, prefix):

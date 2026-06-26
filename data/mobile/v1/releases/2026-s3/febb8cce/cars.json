@@ -1,0 +1,834 @@
+{
+  "cars": [
+    {
+      "carClasses": [
+        "Arca Chevrolet SS Arca Ford Mustang Arca Toyota Camry"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "Arca Chevrolet SS Arca Ford Mustang Arca Toyota Camry",
+      "sku": "car_arca_chevrolet_ss_arca_ford_mustang_arca_toyota_camry"
+    },
+    {
+      "carClasses": [
+        "BMW M2 Racing G87"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "BMW M2 Racing G87",
+      "sku": "car_bmw_m2_racing_g87"
+    },
+    {
+      "carClasses": [
+        "BMW M2 Racing G87 Toyota Gr86 Renault Clio Global Mazda MX 5"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "BMW M2 Racing G87 Toyota Gr86 Renault Clio Global Mazda MX 5",
+      "sku": "car_bmw_m2_racing_g87_toyota_gr86_renault_clio_global_mazda_mx_5"
+    },
+    {
+      "carClasses": [
+        "Cadillac CTS V Racecar KIA Optima"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Cadillac CTS V Racecar KIA Optima",
+      "sku": "car_cadillac_cts_v_racecar_kia_optima"
+    },
+    {
+      "carClasses": [
+        "Dallara F3"
+      ],
+      "categories": [
+        "Formula Car"
+      ],
+      "displayName": "Dallara F3",
+      "sku": "car_dallara_f3"
+    },
+    {
+      "carClasses": [
+        "Dallara IL 15"
+      ],
+      "categories": [
+        "Formula Car",
+        "Oval"
+      ],
+      "displayName": "Dallara IL 15",
+      "sku": "car_dallara_il_15"
+    },
+    {
+      "carClasses": [
+        "Dallara Ir18"
+      ],
+      "categories": [
+        "Formula Car",
+        "Oval"
+      ],
+      "displayName": "Dallara Ir18",
+      "sku": "car_dallara_ir18"
+    },
+    {
+      "carClasses": [
+        "Dallara IR 01"
+      ],
+      "categories": [
+        "Formula Car"
+      ],
+      "displayName": "Dallara IR 01",
+      "sku": "car_dallara_ir_01"
+    },
+    {
+      "carClasses": [
+        "Dallara P217"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Dallara P217",
+      "sku": "car_dallara_p217"
+    },
+    {
+      "carClasses": [
+        "Dirt 358 Modified"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt 358 Modified",
+      "sku": "car_dirt_358_modified"
+    },
+    {
+      "carClasses": [
+        "Dirt BIG Block Modified"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt BIG Block Modified",
+      "sku": "car_dirt_big_block_modified"
+    },
+    {
+      "carClasses": [
+        "Dirt Late Model Limited"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt Late Model Limited",
+      "sku": "car_dirt_late_model_limited"
+    },
+    {
+      "carClasses": [
+        "Dirt Late Model PRO"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt Late Model PRO",
+      "sku": "car_dirt_late_model_pro"
+    },
+    {
+      "carClasses": [
+        "Dirt Late Model Super"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt Late Model Super",
+      "sku": "car_dirt_late_model_super"
+    },
+    {
+      "carClasses": [
+        "Dirt Legends Ford 34 Coupe"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt Legends Ford 34 Coupe",
+      "sku": "car_dirt_legends_ford_34_coupe"
+    },
+    {
+      "carClasses": [
+        "Dirt Micro Sprint CAR NON Winged"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt Micro Sprint CAR NON Winged",
+      "sku": "car_dirt_micro_sprint_car_non_winged"
+    },
+    {
+      "carClasses": [
+        "Dirt Micro Sprint CAR Winged"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt Micro Sprint CAR Winged",
+      "sku": "car_dirt_micro_sprint_car_winged"
+    },
+    {
+      "carClasses": [
+        "Dirt Midget"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt Midget",
+      "sku": "car_dirt_midget"
+    },
+    {
+      "carClasses": [
+        "Dirt Mini Stock"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt Mini Stock",
+      "sku": "car_dirt_mini_stock"
+    },
+    {
+      "carClasses": [
+        "Dirt Sprint CAR 305"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt Sprint CAR 305",
+      "sku": "car_dirt_sprint_car_305"
+    },
+    {
+      "carClasses": [
+        "Dirt Sprint CAR 360"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt Sprint CAR 360",
+      "sku": "car_dirt_sprint_car_360"
+    },
+    {
+      "carClasses": [
+        "Dirt Sprint CAR 360 NON Winged"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt Sprint CAR 360 NON Winged",
+      "sku": "car_dirt_sprint_car_360_non_winged"
+    },
+    {
+      "carClasses": [
+        "Dirt Sprint CAR 410"
+      ],
+      "categories": [
+        "Dirt Oval",
+        "Dirt Road"
+      ],
+      "displayName": "Dirt Sprint CAR 410",
+      "sku": "car_dirt_sprint_car_410"
+    },
+    {
+      "carClasses": [
+        "Dirt Street Stock"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt Street Stock",
+      "sku": "car_dirt_street_stock"
+    },
+    {
+      "carClasses": [
+        "Dirt UMP Modified"
+      ],
+      "categories": [
+        "Dirt Oval"
+      ],
+      "displayName": "Dirt UMP Modified",
+      "sku": "car_dirt_ump_modified"
+    },
+    {
+      "carClasses": [
+        "Euro Nascar V8gp"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Euro Nascar V8gp",
+      "sku": "car_euro_nascar_v8gp"
+    },
+    {
+      "carClasses": [
+        "Ferrari 296 Challenge"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Ferrari 296 Challenge",
+      "sku": "car_ferrari_296_challenge"
+    },
+    {
+      "carClasses": [
+        "FIA Cross CAR"
+      ],
+      "categories": [
+        "Dirt Road"
+      ],
+      "displayName": "FIA Cross CAR",
+      "sku": "car_fia_cross_car"
+    },
+    {
+      "carClasses": [
+        "FIA F4"
+      ],
+      "categories": [
+        "Formula Car"
+      ],
+      "displayName": "FIA F4",
+      "sku": "car_fia_f4"
+    },
+    {
+      "carClasses": [
+        "Ford GTE Ferrari 488 GTE BMW M8 GTE Chevrolet Corvette C8 R GTE"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Ford GTE Ferrari 488 GTE BMW M8 GTE Chevrolet Corvette C8 R GTE",
+      "sku": "car_ford_gte_ferrari_488_gte_bmw_m8_gte_chevrolet_corvette_c8_r_gte"
+    },
+    {
+      "carClasses": [
+        "Ford Mustang GT4"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Ford Mustang GT4",
+      "sku": "car_ford_mustang_gt4"
+    },
+    {
+      "carClasses": [
+        "Ford Mustang GT4 Mercedes AMG GT4 BMW M4 G82 GT4 EVO Aston"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Ford Mustang GT4 Mercedes AMG GT4 BMW M4 G82 GT4 EVO Aston",
+      "sku": "car_ford_mustang_gt4_mercedes_amg_gt4_bmw_m4_g82_gt4_evo_aston"
+    },
+    {
+      "carClasses": [
+        "Formula VEE Classic Formula VEE Cutlass Formula VEE Conqueror"
+      ],
+      "categories": [
+        "Formula Car"
+      ],
+      "displayName": "Formula VEE Classic Formula VEE Cutlass Formula VEE Conqueror",
+      "sku": "car_formula_vee_classic_formula_vee_cutlass_formula_vee_conqueror"
+    },
+    {
+      "carClasses": [
+        "GEN 4 Chevrolet Monte Carlo 2003 GEN 4 Ford Taurus 2003"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "GEN 4 Chevrolet Monte Carlo 2003 GEN 4 Ford Taurus 2003",
+      "sku": "car_gen_4_chevrolet_monte_carlo_2003_gen_4_ford_taurus_2003"
+    },
+    {
+      "carClasses": [
+        "Global Mazda MX 5 CUP"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Global Mazda MX 5 CUP",
+      "sku": "car_global_mazda_mx_5_cup"
+    },
+    {
+      "carClasses": [
+        "HPD ARX 01C Aston Martin Dbr9 GT1 Chevrolet Corvette C6 R GT1"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "HPD ARX 01C Aston Martin Dbr9 GT1 Chevrolet Corvette C6 R GT1",
+      "sku": "car_hpd_arx_01c_aston_martin_dbr9_gt1_chevrolet_corvette_c6_r_gt1"
+    },
+    {
+      "carClasses": [
+        "Hyundai Elantra N TCR Audi RS3 LMS Gen2 TCR Honda Civic Type R"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Hyundai Elantra N TCR Audi RS3 LMS Gen2 TCR Honda Civic Type R",
+      "sku": "car_hyundai_elantra_n_tcr_audi_rs3_lms_gen2_tcr_honda_civic_type_r"
+    },
+    {
+      "carClasses": [
+        "Indy PRO 2000 PM 18"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "Indy PRO 2000 PM 18",
+      "sku": "car_indy_pro_2000_pm_18"
+    },
+    {
+      "carClasses": [
+        "Late Model Stock"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "Late Model Stock",
+      "sku": "car_late_model_stock"
+    },
+    {
+      "carClasses": [
+        "Legacy Dallara Dw12"
+      ],
+      "categories": [
+        "Unranked"
+      ],
+      "displayName": "Legacy Dallara Dw12",
+      "sku": "car_legacy_dallara_dw12"
+    },
+    {
+      "carClasses": [
+        "Legacy Nascar Truck Chevrolet Silverado 2008"
+      ],
+      "categories": [
+        "Unranked"
+      ],
+      "displayName": "Legacy Nascar Truck Chevrolet Silverado 2008",
+      "sku": "car_legacy_nascar_truck_chevrolet_silverado_2008"
+    },
+    {
+      "carClasses": [
+        "Legends Ford 34 Coupe"
+      ],
+      "categories": [
+        "Oval",
+        "Sports Car"
+      ],
+      "displayName": "Legends Ford 34 Coupe",
+      "sku": "car_legends_ford_34_coupe"
+    },
+    {
+      "carClasses": [
+        "Ligier JS P320"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Ligier JS P320",
+      "sku": "car_ligier_js_p320"
+    },
+    {
+      "carClasses": [
+        "Ligier JS P320 Ford Mustang GT4 Mercedes AMG GT4 BMW M4 G82 GT4"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Ligier JS P320 Ford Mustang GT4 Mercedes AMG GT4 BMW M4 G82 GT4",
+      "sku": "car_ligier_js_p320_ford_mustang_gt4_mercedes_amg_gt4_bmw_m4_g82_gt4"
+    },
+    {
+      "carClasses": [
+        "Lotus 49"
+      ],
+      "categories": [
+        "Formula Car"
+      ],
+      "displayName": "Lotus 49",
+      "sku": "car_lotus_49"
+    },
+    {
+      "carClasses": [
+        "Lotus 79"
+      ],
+      "categories": [
+        "Formula Car"
+      ],
+      "displayName": "Lotus 79",
+      "sku": "car_lotus_79"
+    },
+    {
+      "carClasses": [
+        "Lucas OIL OFF Road PRO 2 Lite"
+      ],
+      "categories": [
+        "Dirt Road"
+      ],
+      "displayName": "Lucas OIL OFF Road PRO 2 Lite",
+      "sku": "car_lucas_oil_off_road_pro_2_lite"
+    },
+    {
+      "carClasses": [
+        "Lucas OIL OFF Road PRO 2 Truck"
+      ],
+      "categories": [
+        "Dirt Road"
+      ],
+      "displayName": "Lucas OIL OFF Road PRO 2 Truck",
+      "sku": "car_lucas_oil_off_road_pro_2_truck"
+    },
+    {
+      "carClasses": [
+        "Lucas OIL OFF Road PRO 4 Truck"
+      ],
+      "categories": [
+        "Dirt Road"
+      ],
+      "displayName": "Lucas OIL OFF Road PRO 4 Truck",
+      "sku": "car_lucas_oil_off_road_pro_4_truck"
+    },
+    {
+      "carClasses": [
+        "Mercedes AMG GT3 2020 Ferrari 296 GT3 Aston Martin Vantage GT3"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Mercedes AMG GT3 2020 Ferrari 296 GT3 Aston Martin Vantage GT3",
+      "sku": "car_mercedes_amg_gt3_2020_ferrari_296_gt3_aston_martin_vantage_gt3"
+    },
+    {
+      "carClasses": [
+        "Mercedes AMG GT3 2020 Mclaren 720s GT3 EVO Ferrari 296 GT3 Aston"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Mercedes AMG GT3 2020 Mclaren 720s GT3 EVO Ferrari 296 GT3 Aston",
+      "sku": "car_mercedes_amg_gt3_2020_mclaren_720s_gt3_evo_ferrari_296_gt3_aston"
+    },
+    {
+      "carClasses": [
+        "Mercedes AMG W13 E Performance"
+      ],
+      "categories": [
+        "Dirt Oval",
+        "Formula Car"
+      ],
+      "displayName": "Mercedes AMG W13 E Performance",
+      "sku": "car_mercedes_amg_w13_e_performance"
+    },
+    {
+      "carClasses": [
+        "Mini Stock"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "Mini Stock",
+      "sku": "car_mini_stock"
+    },
+    {
+      "carClasses": [
+        "Modified Nascar Whelen Tour"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "Modified Nascar Whelen Tour",
+      "sku": "car_modified_nascar_whelen_tour"
+    },
+    {
+      "carClasses": [
+        "Modified SK"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "Modified SK",
+      "sku": "car_modified_sk"
+    },
+    {
+      "carClasses": [
+        "Nascar CUP Series Next GEN Chevrolet Camaro ZL1 Nascar CUP"
+      ],
+      "categories": [
+        "Oval",
+        "Unranked"
+      ],
+      "displayName": "Nascar CUP Series Next GEN Chevrolet Camaro ZL1 Nascar CUP",
+      "sku": "car_nascar_cup_series_next_gen_chevrolet_camaro_zl1_nascar_cup"
+    },
+    {
+      "carClasses": [
+        "Nascar Legends Chevrolet Monte Carlo 1987 Nascar Legends Ford"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "Nascar Legends Chevrolet Monte Carlo 1987 Nascar Legends Ford",
+      "sku": "car_nascar_legends_chevrolet_monte_carlo_1987_nascar_legends_ford"
+    },
+    {
+      "carClasses": [
+        "Nascar O Reilly Chevrolet Camaro Nascar O Reilly Ford Mustang"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "Nascar O Reilly Chevrolet Camaro Nascar O Reilly Ford Mustang",
+      "sku": "car_nascar_o_reilly_chevrolet_camaro_nascar_o_reilly_ford_mustang"
+    },
+    {
+      "carClasses": [
+        "Nascar Truck Ford F150 Nascar Truck Toyota Tundra TRD PRO"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "Nascar Truck Ford F150 Nascar Truck Toyota Tundra TRD PRO",
+      "sku": "car_nascar_truck_ford_f150_nascar_truck_toyota_tundra_trd_pro"
+    },
+    {
+      "carClasses": [
+        "Nissan GTP ZX T Audi 90 GTO"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Nissan GTP ZX T Audi 90 GTO",
+      "sku": "car_nissan_gtp_zx_t_audi_90_gto"
+    },
+    {
+      "carClasses": [
+        "Porsche 911 CUP 992 2"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Porsche 911 CUP 992 2",
+      "sku": "car_porsche_911_cup_992_2"
+    },
+    {
+      "carClasses": [
+        "Porsche 963 GTP BMW M Hybrid V8 EVO Ferrari 499p Cadillac V"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Porsche 963 GTP BMW M Hybrid V8 EVO Ferrari 499p Cadillac V",
+      "sku": "car_porsche_963_gtp_bmw_m_hybrid_v8_evo_ferrari_499p_cadillac_v"
+    },
+    {
+      "carClasses": [
+        "Porsche Mission R"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Porsche Mission R",
+      "sku": "car_porsche_mission_r"
+    },
+    {
+      "carClasses": [
+        "Radical Sr10"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Radical Sr10",
+      "sku": "car_radical_sr10"
+    },
+    {
+      "carClasses": [
+        "RAY Ff1600"
+      ],
+      "categories": [
+        "Formula Car"
+      ],
+      "displayName": "RAY Ff1600",
+      "sku": "car_ray_ff1600"
+    },
+    {
+      "carClasses": [
+        "Renault Clio"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Renault Clio",
+      "sku": "car_renault_clio"
+    },
+    {
+      "carClasses": [
+        "Scca Spec Racer Ford"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Scca Spec Racer Ford",
+      "sku": "car_scca_spec_racer_ford"
+    },
+    {
+      "carClasses": [
+        "SEE Race Week FOR Cars IN USE That Week"
+      ],
+      "categories": [
+        "Dirt Oval",
+        "Oval",
+        "Sports Car"
+      ],
+      "displayName": "SEE Race Week FOR Cars IN USE That Week",
+      "sku": "car_see_race_week_for_cars_in_use_that_week"
+    },
+    {
+      "carClasses": [
+        "Silver Crown"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "Silver Crown",
+      "sku": "car_silver_crown"
+    },
+    {
+      "carClasses": [
+        "Skip Barber Formula 2000"
+      ],
+      "categories": [
+        "Formula Car"
+      ],
+      "displayName": "Skip Barber Formula 2000",
+      "sku": "car_skip_barber_formula_2000"
+    },
+    {
+      "carClasses": [
+        "Sprint CAR"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "Sprint CAR",
+      "sku": "car_sprint_car"
+    },
+    {
+      "carClasses": [
+        "SRX"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "SRX",
+      "sku": "car_srx"
+    },
+    {
+      "carClasses": [
+        "Stock CAR Brasil Chevrolet Cruze Stock CAR Brasil Toyota Corolla"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Stock CAR Brasil Chevrolet Cruze Stock CAR Brasil Toyota Corolla",
+      "sku": "car_stock_car_brasil_chevrolet_cruze_stock_car_brasil_toyota_corolla"
+    },
+    {
+      "carClasses": [
+        "Street Stock Eagle T3 Street Stock Panther C1 Street Stock Casino"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "Street Stock Eagle T3 Street Stock Panther C1 Street Stock Casino",
+      "sku": "car_street_stock_eagle_t3_street_stock_panther_c1_street_stock_casino"
+    },
+    {
+      "carClasses": [
+        "Super Formula Lights"
+      ],
+      "categories": [
+        "Formula Car"
+      ],
+      "displayName": "Super Formula Lights",
+      "sku": "car_super_formula_lights"
+    },
+    {
+      "carClasses": [
+        "Super Formula Sf23 Toyota Super Formula Sf23 Honda"
+      ],
+      "categories": [
+        "Formula Car"
+      ],
+      "displayName": "Super Formula Sf23 Toyota Super Formula Sf23 Honda",
+      "sku": "car_super_formula_sf23_toyota_super_formula_sf23_honda"
+    },
+    {
+      "carClasses": [
+        "Super Late Model"
+      ],
+      "categories": [
+        "Oval"
+      ],
+      "displayName": "Super Late Model",
+      "sku": "car_super_late_model"
+    },
+    {
+      "carClasses": [
+        "Supercars Ford Mustang GEN 3 Supercars Chevrolet Camaro GEN 3"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Supercars Ford Mustang GEN 3 Supercars Chevrolet Camaro GEN 3",
+      "sku": "car_supercars_ford_mustang_gen_3_supercars_chevrolet_camaro_gen_3"
+    },
+    {
+      "carClasses": [
+        "Toyota Gr86"
+      ],
+      "categories": [
+        "Sports Car"
+      ],
+      "displayName": "Toyota Gr86",
+      "sku": "car_toyota_gr86"
+    },
+    {
+      "carClasses": [
+        "USF 2000"
+      ],
+      "categories": [
+        "Formula Car"
+      ],
+      "displayName": "USF 2000",
+      "sku": "car_usf_2000"
+    },
+    {
+      "carClasses": [
+        "VW Beetle Ford Fiesta RS WRC Subaru WRX STI"
+      ],
+      "categories": [
+        "Dirt Road"
+      ],
+      "displayName": "VW Beetle Ford Fiesta RS WRC Subaru WRX STI",
+      "sku": "car_vw_beetle_ford_fiesta_rs_wrc_subaru_wrx_sti"
+    },
+    {
+      "carClasses": [
+        "VW Beetle Lite"
+      ],
+      "categories": [
+        "Dirt Road"
+      ],
+      "displayName": "VW Beetle Lite",
+      "sku": "car_vw_beetle_lite"
+    }
+  ],
+  "generatedAt": "2026-06-26T15:46:50Z",
+  "schemaVersion": 1
+}

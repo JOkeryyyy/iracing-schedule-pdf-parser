@@ -1,0 +1,2045 @@
+{
+  "generatedAt": "2026-06-26T15:46:50Z",
+  "schemaVersion": 1,
+  "tracks": [
+    {
+      "displayName": "Adelaide Street Circuit",
+      "packageId": "track_adelaide_street_circuit",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Algarve International Circuit - Grand Prix",
+      "packageId": "track_algarve_international_circuit_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Autódromo Hermanos Rodríguez - Grand Prix",
+      "packageId": "track_aut_dromo_hermanos_rodr_guez_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Autódromo Hermanos Rodríguez - National",
+      "packageId": "track_aut_dromo_hermanos_rodr_guez_national",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Autódromo Hermanos Rodríguez - Oval",
+      "packageId": "track_aut_dromo_hermanos_rodr_guez_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Autódromo Hermanos Rodríguez - Oval Stadium",
+      "packageId": "track_aut_dromo_hermanos_rodr_guez_oval_stadium",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Autódromo José Carlos Pace - Grand Prix",
+      "packageId": "track_aut_dromo_jos_carlos_pace_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "road"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Auto Club Speedway - Oval",
+      "packageId": "track_auto_club_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road",
+        "unranked"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Autodromo Internazionale del Mugello - Grand",
+      "packageId": "track_autodromo_internazionale_del_mugello_grand",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Autodromo Internazionale del Mugello - Short",
+      "packageId": "track_autodromo_internazionale_del_mugello_short",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Autodromo Internazionale Enzo e Dino Ferrari -",
+      "packageId": "track_autodromo_internazionale_enzo_e_dino_ferrari",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Autodromo Nazionale Monza - GP without first",
+      "packageId": "track_autodromo_nazionale_monza_gp_without_first",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Autodromo Nazionale Monza - Grand Prix",
+      "packageId": "track_autodromo_nazionale_monza_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Barber Motorsports Park",
+      "packageId": "track_barber_motorsports_park",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Bark River International Raceway",
+      "packageId": "track_bark_river_international_raceway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Brands Hatch Circuit - Grand Prix",
+      "packageId": "track_brands_hatch_circuit_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Brands Hatch Circuit - Indy",
+      "packageId": "track_brands_hatch_circuit_indy",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Brands Hatch Circuit - Rallycross",
+      "packageId": "track_brands_hatch_circuit_rallycross",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Bristol Motor Speedway - Dual Pit Roads",
+      "packageId": "track_bristol_motor_speedway_dual_pit_roads",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Bristol Motor Speedway - Single Pit Roads",
+      "packageId": "track_bristol_motor_speedway_single_pit_roads",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Canadian Tire Motorsports Park",
+      "packageId": "track_canadian_tire_motorsports_park",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Cedar Lake Speedway",
+      "packageId": "track_cedar_lake_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "dirtRoad"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Charlotte Motor Speedway - Dirt Road",
+      "packageId": "track_charlotte_motor_speedway_dirt_road",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Charlotte Motor Speedway - Infield Road",
+      "packageId": "track_charlotte_motor_speedway_infield_road",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Charlotte Motor Speedway - Legends Oval",
+      "packageId": "track_charlotte_motor_speedway_legends_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Charlotte Motor Speedway - Oval",
+      "packageId": "track_charlotte_motor_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "unranked"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Charlotte Motor Speedway - Rallyx",
+      "packageId": "track_charlotte_motor_speedway_rallyx",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Charlotte Motor Speedway - Roval 2019",
+      "packageId": "track_charlotte_motor_speedway_roval_2019",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Charlotte Motor Speedway - Roval 2025",
+      "packageId": "track_charlotte_motor_speedway_roval_2025",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Charlotte Motor Speedway - Roval No Chicanes",
+      "packageId": "track_charlotte_motor_speedway_roval_no_chicanes",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Chicago Street Course - 2023 Cup",
+      "packageId": "track_chicago_street_course_2023_cup",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Chicagoland Speedway",
+      "packageId": "track_chicagoland_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Chili Bowl",
+      "packageId": "track_chili_bowl",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Circuit de Barcelona Catalunya - Grand Prix",
+      "packageId": "track_circuit_de_barcelona_catalunya_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuit de Barcelona Catalunya - Historic",
+      "packageId": "track_circuit_de_barcelona_catalunya_historic",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuit de Barcelona Catalunya - Rallycross",
+      "packageId": "track_circuit_de_barcelona_catalunya_rallycross",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Circuit de Lédenon",
+      "packageId": "track_circuit_de_l_denon",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuit de Nevers Magny-Cours - Grand Prix",
+      "packageId": "track_circuit_de_nevers_magny_cours_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuit de Spa-Francorchamps - Classic Pits",
+      "packageId": "track_circuit_de_spa_francorchamps_classic_pits",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuit de Spa-Francorchamps - Endurance",
+      "packageId": "track_circuit_de_spa_francorchamps_endurance",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuit de Spa-Francorchamps - Grand Prix Pits",
+      "packageId": "track_circuit_de_spa_francorchamps_grand_prix_pits",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "road"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Circuit des 24 Heures du Mans - 24 Heures du",
+      "packageId": "track_circuit_des_24_heures_du_mans_24_heures_du",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuit Gilles Villeneuve",
+      "packageId": "track_circuit_gilles_villeneuve",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuit of the Americas - Grand Prix",
+      "packageId": "track_circuit_of_the_americas_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuit of the Americas - NASCAR West",
+      "packageId": "track_circuit_of_the_americas_nascar_west",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Circuit Zandvoort - Grand Prix",
+      "packageId": "track_circuit_zandvoort_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuit Zandvoort - Nationaal",
+      "packageId": "track_circuit_zandvoort_nationaal",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuit Zolder - Alternate",
+      "packageId": "track_circuit_zolder_alternate",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuit Zolder - Grand Prix",
+      "packageId": "track_circuit_zolder_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuito de Jerez - Ángel Nieto - Grand Prix",
+      "packageId": "track_circuito_de_jerez_ngel_nieto_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuito de Navarra - Speed Circuit",
+      "packageId": "track_circuito_de_navarra_speed_circuit",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Circuito de Navarra - Speed Circuit - Short",
+      "packageId": "track_circuito_de_navarra_speed_circuit_short",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Concord Speedway",
+      "packageId": "track_concord_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Crandon International Raceway - Full",
+      "packageId": "track_crandon_international_raceway_full",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Crandon International Raceway - Short",
+      "packageId": "track_crandon_international_raceway_short",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Darlington Raceway",
+      "packageId": "track_darlington_raceway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Daytona International Speedway - Oval",
+      "packageId": "track_daytona_international_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "unranked"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Daytona International Speedway - Oval - 2008",
+      "packageId": "track_daytona_international_speedway_oval_2008",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "unranked"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Daytona International Speedway - Road Course",
+      "packageId": "track_daytona_international_speedway_road_course",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Daytona Rallycross and Dirt Road - Dirt Road",
+      "packageId": "track_daytona_rallycross_and_dirt_road_dirt_road",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Daytona Rallycross and Dirt Road - Rallycross",
+      "packageId": "track_daytona_rallycross_and_dirt_road_rallycross",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Detroit Grand Prix at Belle Isle - Belle Isle",
+      "packageId": "track_detroit_grand_prix_at_belle_isle_belle_isle",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Donington Park Racing Circuit - National",
+      "packageId": "track_donington_park_racing_circuit_national",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "EchoPark Speedway (Atlanta) - Oval",
+      "packageId": "track_echopark_speedway_atlanta_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "unranked"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "EchoPark Speedway (Atlanta) - Oval - 2008",
+      "packageId": "track_echopark_speedway_atlanta_oval_2008",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "EchoPark Speedway (Atlanta) - Rallycross Long",
+      "packageId": "track_echopark_speedway_atlanta_rallycross_long",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "EchoPark Speedway (Atlanta) - Rallycross Short",
+      "packageId": "track_echopark_speedway_atlanta_rallycross_short",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Eldora Speedway",
+      "packageId": "track_eldora_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "dirtRoad"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Fairbury Speedway",
+      "packageId": "track_fairbury_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Federated Auto Parts Raceway at I-55",
+      "packageId": "track_federated_auto_parts_raceway_at_i_55",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "dirtRoad",
+        "oval"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Firebird Motorsports Park",
+      "packageId": "track_firebird_motorsports_park",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Five Flags Speedway",
+      "packageId": "track_five_flags_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Fuji International Speedway - Grand Prix",
+      "packageId": "track_fuji_international_speedway_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "road"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Fuji International Speedway - No Chicane",
+      "packageId": "track_fuji_international_speedway_no_chicane",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Hickory Motor Speedway",
+      "packageId": "track_hickory_motor_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Hockenheimring Baden-Württemberg - Grand",
+      "packageId": "track_hockenheimring_baden_w_rttemberg_grand",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "road"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Hockenheimring Baden-Württemberg - National",
+      "packageId": "track_hockenheimring_baden_w_rttemberg_national",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Hockenheimring Baden-Württemberg - Outer",
+      "packageId": "track_hockenheimring_baden_w_rttemberg_outer",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Homestead Miami Speedway - Open Wheel",
+      "packageId": "track_homestead_miami_speedway_open_wheel",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Homestead Miami Speedway - Oval",
+      "packageId": "track_homestead_miami_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Hungaroring",
+      "packageId": "track_hungaroring",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "road"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Huset's Speedway",
+      "packageId": "track_huset_s_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "dirtRoad"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Indianapolis Motor Speedway - NASCAR Oval",
+      "packageId": "track_indianapolis_motor_speedway_nascar_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Indianapolis Motor Speedway - Open Wheel",
+      "packageId": "track_indianapolis_motor_speedway_open_wheel",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Indianapolis Motor Speedway - Road Course",
+      "packageId": "track_indianapolis_motor_speedway_road_course",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Iowa Speedway - Oval",
+      "packageId": "track_iowa_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Iowa Speedway - Oval - 2011 - Oval - 2011",
+      "packageId": "track_iowa_speedway_oval_2011_oval_2011",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Iowa Speedway - Rallycross - 2017",
+      "packageId": "track_iowa_speedway_rallycross_2017",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Irwindale Speedway - Outer",
+      "packageId": "track_irwindale_speedway_outer",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Kansas Speedway - Oval",
+      "packageId": "track_kansas_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Kentucky Speedway - Oval",
+      "packageId": "track_kentucky_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Kevin Harvick's Kern Raceway - Asphalt Track",
+      "packageId": "track_kevin_harvick_s_kern_raceway_asphalt_track",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Kevin Harvick's Kern Raceway - Dirt Track",
+      "packageId": "track_kevin_harvick_s_kern_raceway_dirt_track",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Knockhill Racing Circuit - Rallycross",
+      "packageId": "track_knockhill_racing_circuit_rallycross",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Knoxville Raceway",
+      "packageId": "track_knoxville_raceway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "dirtRoad",
+        "oval"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Kokomo Speedway - Tires in",
+      "packageId": "track_kokomo_speedway_tires_in",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Kokomo Speedway - Tires out",
+      "packageId": "track_kokomo_speedway_tires_out",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Lånkebanen (Hell RX) - Hell Rallycross",
+      "packageId": "track_l_nkebanen_hell_rx_hell_rallycross",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Lånkebanen (Hell RX) - Rallycross Short",
+      "packageId": "track_l_nkebanen_hell_rx_rallycross_short",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Langley Speedway",
+      "packageId": "track_langley_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Lanier National Speedway - Asphalt",
+      "packageId": "track_lanier_national_speedway_asphalt",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Lanier National Speedway - Dirt",
+      "packageId": "track_lanier_national_speedway_dirt",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "dirtRoad"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Las Vegas Motor Speedway - Oval",
+      "packageId": "track_las_vegas_motor_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "[Legacy] Kentucky Speedway - 2011 - Oval",
+      "packageId": "track_legacy_kentucky_speedway_2011_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "[Legacy] Michigan International Speedway -",
+      "packageId": "track_legacy_michigan_international_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "[Legacy] Phoenix Raceway - 2008 - Oval",
+      "packageId": "track_legacy_phoenix_raceway_2008_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "unranked"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "[Legacy] Phoenix Raceway - 2008 - Rallycross",
+      "packageId": "track_legacy_phoenix_raceway_2008_rallycross",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "[Legacy] Pocono Raceway - 2009 - Oval",
+      "packageId": "track_legacy_pocono_raceway_2009_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "unranked"
+      ],
+      "type": "unranked"
+    },
+    {
+      "displayName": "[Legacy] Silverstone Circuit - 2008 - Historical",
+      "packageId": "track_legacy_silverstone_circuit_2008_historical",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Lernerville Speedway",
+      "packageId": "track_lernerville_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Limaland Motorsports Park",
+      "packageId": "track_limaland_motorsports_park",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Lime Rock Park - Classic",
+      "packageId": "track_lime_rock_park_classic",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Lime Rock Park - Grand Prix",
+      "packageId": "track_lime_rock_park_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Lime Rock Park - West Bend Chicane",
+      "packageId": "track_lime_rock_park_west_bend_chicane",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Lincoln Speedway",
+      "packageId": "track_lincoln_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Long Beach Street Circuit",
+      "packageId": "track_long_beach_street_circuit",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Lucas Oil Indianapolis Raceway Park -",
+      "packageId": "track_lucas_oil_indianapolis_raceway_park",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Lucas Oil Indianapolis Raceway Park - Oval",
+      "packageId": "track_lucas_oil_indianapolis_raceway_park_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Lucas Oil Speedway - Dirt Oval",
+      "packageId": "track_lucas_oil_speedway_dirt_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "oval"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Lucas Oil Speedway - Dirt Road",
+      "packageId": "track_lucas_oil_speedway_dirt_road",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Martinsville Speedway",
+      "packageId": "track_martinsville_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Miami International Autodrome - Grand Prix",
+      "packageId": "track_miami_international_autodrome_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Michigan International Speedway",
+      "packageId": "track_michigan_international_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "unranked"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Mid-Ohio Sports Car Course - Alt Oval",
+      "packageId": "track_mid_ohio_sports_car_course_alt_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Mid-Ohio Sports Car Course - Full Course",
+      "packageId": "track_mid_ohio_sports_car_course_full_course",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Misano World Circuit Marco Simoncelli - Grand",
+      "packageId": "track_misano_world_circuit_marco_simoncelli_grand",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Mobility Resort Motegi - Grand Prix",
+      "packageId": "track_mobility_resort_motegi_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Mobility Resort Motegi - Oval",
+      "packageId": "track_mobility_resort_motegi_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "MotorLand Aragón - Grand Prix",
+      "packageId": "track_motorland_arag_n_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Motorsport Arena Oschersleben - B Course",
+      "packageId": "track_motorsport_arena_oschersleben_b_course",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Motorsport Arena Oschersleben - Grand Prix",
+      "packageId": "track_motorsport_arena_oschersleben_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Mount Panorama Circuit",
+      "packageId": "track_mount_panorama_circuit",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Myrtle Beach Speedway",
+      "packageId": "track_myrtle_beach_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Nürburgring Combined - Gesamtstrecke 24h",
+      "packageId": "track_n_rburgring_combined_gesamtstrecke_24h",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Nürburgring Combined - Gesamtstrecke VLN",
+      "packageId": "track_n_rburgring_combined_gesamtstrecke_vln",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Nürburgring Grand-Prix-Strecke - BES/WEC",
+      "packageId": "track_n_rburgring_grand_prix_strecke_bes_wec",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Nürburgring Grand-Prix-Strecke - Grand Prix",
+      "packageId": "track_n_rburgring_grand_prix_strecke_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Nürburgring Grand-Prix-Strecke - Sprintstrecke",
+      "packageId": "track_n_rburgring_grand_prix_strecke_sprintstrecke",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Nürburgring Nordschleife - Industriefahrten",
+      "packageId": "track_n_rburgring_nordschleife_industriefahrten",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Nashville Fairgrounds Speedway - Oval",
+      "packageId": "track_nashville_fairgrounds_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Nashville Superspeedway",
+      "packageId": "track_nashville_superspeedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "New Hampshire Motor Speedway - Legends",
+      "packageId": "track_new_hampshire_motor_speedway_legends",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "New Hampshire Motor Speedway - Oval",
+      "packageId": "track_new_hampshire_motor_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "unranked"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "New Smyrna Speedway",
+      "packageId": "track_new_smyrna_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "North Wilkesboro Speedway - Oval",
+      "packageId": "track_north_wilkesboro_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "North Wilkesboro Speedway - Oval - 1987",
+      "packageId": "track_north_wilkesboro_speedway_oval_1987",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Okayama International Circuit - Full Course",
+      "packageId": "track_okayama_international_circuit_full_course",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Okayama International Circuit - Short",
+      "packageId": "track_okayama_international_circuit_short",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Oran Park Raceway - Grand Prix",
+      "packageId": "track_oran_park_raceway_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Oran Park Raceway - South",
+      "packageId": "track_oran_park_raceway_south",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Oswego Speedway - Dirt",
+      "packageId": "track_oswego_speedway_dirt",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Oswego Speedway - Oval",
+      "packageId": "track_oswego_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Oulton Park Circuit - Fosters",
+      "packageId": "track_oulton_park_circuit_fosters",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Oulton Park Circuit - Fosters w/Hislop",
+      "packageId": "track_oulton_park_circuit_fosters_w_hislop",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Oulton Park Circuit - International",
+      "packageId": "track_oulton_park_circuit_international",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Oulton Park Circuit - Intl w/no Chicanes",
+      "packageId": "track_oulton_park_circuit_intl_w_no_chicanes",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Oulton Park Circuit - Intl w/out Brittens",
+      "packageId": "track_oulton_park_circuit_intl_w_out_brittens",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Oulton Park Circuit - Island",
+      "packageId": "track_oulton_park_circuit_island",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Oxford Plains Speedway",
+      "packageId": "track_oxford_plains_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Phillip Island Circuit",
+      "packageId": "track_phillip_island_circuit",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Phoenix Raceway - Oval",
+      "packageId": "track_phoenix_raceway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road",
+        "unranked"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Phoenix Raceway - Oval w/open dogleg",
+      "packageId": "track_phoenix_raceway_oval_w_open_dogleg",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Pocono Raceway",
+      "packageId": "track_pocono_raceway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road",
+        "unranked"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Port Royal Speedway",
+      "packageId": "track_port_royal_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Portland International Raceway - Full Circuit",
+      "packageId": "track_portland_international_raceway_full_circuit",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Portland International Raceway - No Chicane",
+      "packageId": "track_portland_international_raceway_no_chicane",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Qualcomm Circuit (Naval Base Coronado)",
+      "packageId": "track_qualcomm_circuit_naval_base_coronado",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Red Bull Ring - Grand Prix",
+      "packageId": "track_red_bull_ring_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "road"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Red Bull Ring - National",
+      "packageId": "track_red_bull_ring_national",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Richmond Raceway",
+      "packageId": "track_richmond_raceway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Road America - Bend",
+      "packageId": "track_road_america_bend",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Road America - Full Course",
+      "packageId": "track_road_america_full_course",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Road Atlanta - Full Course",
+      "packageId": "track_road_atlanta_full_course",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Road Atlanta - Short",
+      "packageId": "track_road_atlanta_short",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Rockingham Speedway - Oval",
+      "packageId": "track_rockingham_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Rudskogen Motorsenter",
+      "packageId": "track_rudskogen_motorsenter",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Sachsenring",
+      "packageId": "track_sachsenring",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Sandown International Motor Raceway",
+      "packageId": "track_sandown_international_motor_raceway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Sebring International Raceway - International",
+      "packageId": "track_sebring_international_raceway_international",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "road"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Shell V-Power Motorsport Park at The Bend -",
+      "packageId": "track_shell_v_power_motorsport_park_at_the_bend",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Silverstone Circuit - Grand Prix",
+      "packageId": "track_silverstone_circuit_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "road"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Silverstone Circuit - National",
+      "packageId": "track_silverstone_circuit_national",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Slinger Speedway - Oval",
+      "packageId": "track_slinger_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Snetterton Circuit - 100",
+      "packageId": "track_snetterton_circuit_100",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Snetterton Circuit - 200",
+      "packageId": "track_snetterton_circuit_200",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Snetterton Circuit - 300",
+      "packageId": "track_snetterton_circuit_300",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Sonoma Raceway - Cup Short",
+      "packageId": "track_sonoma_raceway_cup_short",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Sonoma Raceway - Oval",
+      "packageId": "track_sonoma_raceway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Sonoma Raceway - Rallycross",
+      "packageId": "track_sonoma_raceway_rallycross",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "South Boston Speedway",
+      "packageId": "track_south_boston_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Southern National Motorsports Park",
+      "packageId": "track_southern_national_motorsports_park",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "St. Petersburg Grand Prix - Grand Prix",
+      "packageId": "track_st_petersburg_grand_prix_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Stafford Motor Speedway - Full Course",
+      "packageId": "track_stafford_motor_speedway_full_course",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Summit Point Raceway - Summit Point Raceway",
+      "packageId": "track_summit_point_raceway_summit_point_raceway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Suzuka International Racing Course - Grand Prix",
+      "packageId": "track_suzuka_international_racing_course_grand_prix",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Talladega Superspeedway",
+      "packageId": "track_talladega_superspeedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road",
+        "unranked"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Texas Motor Speedway - Oval",
+      "packageId": "track_texas_motor_speedway_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "unranked"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "The Bullring",
+      "packageId": "track_the_bullring",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "The Dirt Track at Charlotte",
+      "packageId": "track_the_dirt_track_at_charlotte",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "The Milwaukee Mile",
+      "packageId": "track_the_milwaukee_mile",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Thompson Speedway Motorsports Park - Oval",
+      "packageId": "track_thompson_speedway_motorsports_park_oval",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Thruxton Circuit",
+      "packageId": "track_thruxton_circuit",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Tsukuba Circuit - 1000 Chicane",
+      "packageId": "track_tsukuba_circuit_1000_chicane",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Tsukuba Circuit - 2000 Full",
+      "packageId": "track_tsukuba_circuit_2000_full",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "USA International Speedway - Asphalt",
+      "packageId": "track_usa_international_speedway_asphalt",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "USA International Speedway - Dirt",
+      "packageId": "track_usa_international_speedway_dirt",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "dirtRoad"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Virginia International Raceway - Full Course",
+      "packageId": "track_virginia_international_raceway_full_course",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "road"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Virginia International Raceway - North Course",
+      "packageId": "track_virginia_international_raceway_north_course",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Volusia Speedway Park",
+      "packageId": "track_volusia_speedway_park",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "dirtRoad"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Watkins Glen International - Boot",
+      "packageId": "track_watkins_glen_international_boot",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Watkins Glen International - Classic",
+      "packageId": "track_watkins_glen_international_classic",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Watkins Glen International - Classic Boot",
+      "packageId": "track_watkins_glen_international_classic_boot",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Watkins Glen International - Cup",
+      "packageId": "track_watkins_glen_international_cup",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "WeatherTech Raceway at Laguna Seca - 2026",
+      "packageId": "track_weathertech_raceway_at_laguna_seca_2026",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Weedsport Speedway",
+      "packageId": "track_weedsport_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "dirtRoad"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Wild West Motorsports Park",
+      "packageId": "track_wild_west_motorsports_park",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "Williams Grove Speedway",
+      "packageId": "track_williams_grove_speedway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtOval",
+        "dirtRoad"
+      ],
+      "type": "dirtOval"
+    },
+    {
+      "displayName": "Willow Springs International Raceway - Big",
+      "packageId": "track_willow_springs_international_raceway_big",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road"
+      ],
+      "type": "oval"
+    },
+    {
+      "displayName": "Winton Motor Raceway - National Circuit",
+      "packageId": "track_winton_motor_raceway_national_circuit",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "road"
+      ],
+      "type": "road"
+    },
+    {
+      "displayName": "Winton Motor Raceway - Rallycross",
+      "packageId": "track_winton_motor_raceway_rallycross",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "dirtRoad"
+      ],
+      "type": "dirtRoad"
+    },
+    {
+      "displayName": "World Wide Technology Raceway (Gateway) -",
+      "packageId": "track_world_wide_technology_raceway_gateway",
+      "sourceTrackIds": [],
+      "supportedTypes": [
+        "oval",
+        "road"
+      ],
+      "type": "road"
+    }
+  ]
+}
