@@ -55,6 +55,14 @@ python3 parse_schedule_pdf.py data/source/SeasonSchedule.pdf --output-dir data/g
 
 Supabase is used as static JSON hosting. The publish command uploads immutable release files first and overwrites `data/mobile/v1/manifest.json` last. If release upload or verification fails, the previous public manifest remains active.
 
+Create a public Supabase Storage bucket before publishing:
+
+```text
+planner-data
+```
+
+The bucket must be public because the pipeline verifies every uploaded JSON file through the public Storage URL. If GitHub Actions fails during `Publish mobile JSON to Supabase` with a public verification error, first confirm the bucket name matches `SUPABASE_STORAGE_BUCKET` and that the bucket is public.
+
 Required environment variables:
 
 ```sh
