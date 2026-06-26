@@ -1,0 +1,14 @@
+{
+  "carsFile": "releases/2026-s3/b973e3f6/cars.json",
+  "checksums": {
+    "releases/2026-s3/b973e3f6/cars.json": "sha256:8dda9b0cb80f179484b3e4a2f5f23374140c7b01d494c66a3622520ea1bb5706",
+    "releases/2026-s3/b973e3f6/season.json": "sha256:6e32089e6ff7f2a459fbbb838939ce8ed859e494acab1914dcdda094f60abac9",
+    "releases/2026-s3/b973e3f6/tracks.json": "sha256:38127b5a9d4e2bdc17f263af76c4916fa8eada65dc88ce100571770366b1cd17"
+  },
+  "generatedAt": "2026-06-26T15:05:47Z",
+  "revision": "b973e3f6",
+  "schemaVersion": 1,
+  "seasonFile": "releases/2026-s3/b973e3f6/season.json",
+  "seasonId": "2026-s3",
+  "tracksFile": "releases/2026-s3/b973e3f6/tracks.json"
+}

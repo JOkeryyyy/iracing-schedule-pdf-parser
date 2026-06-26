@@ -5,7 +5,10 @@ on:
     paths:
       - ".github/workflows/parse-schedule.yml"
       - "data/source/SeasonSchedule.pdf"
+      - "docs/superpowers/specs/**"
+      - "docs/superpowers/plans/**"
       - "pdf_schedule_parser/**"
+      - "schedule_data_pipeline/**"
       - "tests/**"
       - "pyproject.toml"
       - "parse_schedule_pdf.py"
@@ -13,7 +16,10 @@ on:
     paths:
       - ".github/workflows/parse-schedule.yml"
       - "data/source/SeasonSchedule.pdf"
+      - "docs/superpowers/specs/**"
+      - "docs/superpowers/plans/**"
       - "pdf_schedule_parser/**"
+      - "schedule_data_pipeline/**"
       - "tests/**"
       - "pyproject.toml"
       - "parse_schedule_pdf.py"
@@ -21,6 +27,12 @@ on:
 
 permissions:
   contents: write
+
+env:
+  IWP_SEASON_ID: "2026-s3"
+  IWP_SEASON_NAME: "2026 Season 3"
+  IWP_SEASON_START: "2026-06-16"
+  IWP_SEASON_END: "2026-09-08"
 
 jobs:
   parse:
@@ -47,11 +59,28 @@ jobs:
       - name: Parse committed PDF
         run: python -m pdf_schedule_parser.cli data/source/SeasonSchedule.pdf --output-dir data/generated
 
+      - name: Build mobile JSON
+        run: |
+          GENERATED_AT="$(date -u -d "$(git log -1 --format=%cI -- data/source/SeasonSchedule.pdf)" +"%Y-%m-%dT%H:%M:%SZ")"
+          python -m schedule_data_pipeline.cli build \
+            --raw-dir data/generated \
+            --output-dir data/mobile/v1 \
+            --season-id "$IWP_SEASON_ID" \
+            --season-name "$IWP_SEASON_NAME" \
+            --season-start "$IWP_SEASON_START" \
+            --season-end "$IWP_SEASON_END" \
+            --generated-at "$GENERATED_AT"
+
+      - name: Validate mobile JSON
+        run: python -m schedule_data_pipeline.cli validate --mobile-dir data/mobile/v1
+
       - name: Upload generated JSON
         uses: actions/upload-artifact@v4
         with:
           name: schedule-json
-          path: data/generated/*.json
+          path: |
+            data/generated/*.json
+            data/mobile/v1/**/*.json
           if-no-files-found: error
 
       - name: Commit generated JSON
@@ -59,4 +88,12 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update generated schedule json"
-          file_pattern: data/generated/*.json
+          file_pattern: data/generated/*.json data/mobile/v1/**/*.json
+
+      - name: Publish mobile JSON to Supabase
+        if: github.ref_name == 'main'
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SUPABASE_STORAGE_BUCKET: ${{ secrets.SUPABASE_STORAGE_BUCKET }}
+        run: python -m schedule_data_pipeline.cli publish --mobile-dir data/mobile/v1 --raw-dir data/generated

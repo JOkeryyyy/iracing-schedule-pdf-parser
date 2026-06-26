@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "cars": [
+    {
+      "id": "car_mini_stock",
+      "name": "Mini Stock",
+      "disciplines": ["oval"],
+      "mappingStatus": "fallback"
+    },
+    {
+      "id": "car_arca",
+      "name": "ARCA",
+      "disciplines": ["oval"],
+      "mappingStatus": "fallback"
+    }
+  ]
+}

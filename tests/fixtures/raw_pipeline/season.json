@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "season": {
+    "id": "2026-s3",
+    "name": "2026 Season 3",
+    "startDate": "2026-01-20",
+    "endDate": "2026-12-04"
+  },
+  "series": [
+    {
+      "id": "series_mini_stock_rookie_series_by_thrustmaster_2026_s3",
+      "name": "Mini Stock Rookie Series by Thrustmaster",
+      "discipline": "oval",
+      "fixedSetup": null,
+      "fixedSetupSource": "unknown",
+      "startType": "rolling",
+      "startTypeSource": "weatherText",
+      "license": {
+        "raw": "Rookie 1.0 --> Pro/WC 4.0",
+        "minClass": "rookie",
+        "minSafetyRating": 1.0,
+        "maxClass": "pro_wc",
+        "maxSafetyRating": 4.0
+      },
+      "carClassIds": ["car_class_mini_stock"],
+      "carIds": ["car_mini_stock"],
+      "schedule": {
+        "raw": "Races every 30 minutes at :15 and :45",
+        "type": "recurring",
+        "intervalMinutes": 30,
+        "minuteOffsets": [15, 45]
+      },
+      "official": {
+        "minEntries": 6,
+        "splitAt": 14,
+        "drops": 4
+      },
+      "weeks": [
+        {
+          "week": 1,
+          "startDate": "2026-06-16",
+          "trackId": "track_charlotte_motor_speedway_oval",
+          "trackName": "Charlotte Motor Speedway - Oval",
+          "raceLength": {
+            "type": "laps",
+            "value": 15
+          },
+          "weather": {
+            "rainChancePercent": 0,
+            "temperatureF": 80,
+            "temperatureC": 26
+          }
+        },
+        {
+          "week": 2,
+          "startDate": "2026-06-23",
+          "trackId": "track_langley_speedway",
+          "trackName": "Langley Speedway",
+          "raceLength": {
+            "type": "laps",
+            "value": 35
+          },
+          "weather": {
+            "rainChancePercent": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "series_arca_menards_series_2026_s3",
+      "name": "ARCA Menards Series",
+      "discipline": "oval",
+      "fixedSetup": true,
+      "fixedSetupSource": "seriesName",
+      "startType": "standing",
+      "startTypeSource": "weatherText",
+      "license": {
+        "raw": "Rookie 4.0 --> Pro/WC 4.0",
+        "minClass": "rookie",
+        "minSafetyRating": 4.0
+      },
+      "carClassIds": ["car_class_arca"],
+      "carIds": ["car_arca"],
+      "schedule": {
+        "raw": "Races every hour at :45 past",
+        "type": "recurring",
+        "intervalMinutes": 60,
+        "minuteOffsets": [45]
+      },
+      "official": {
+        "minEntries": 6,
+        "splitAt": 20,
+        "drops": 4
+      },
+      "weeks": [
+        {
+          "week": 1,
+          "startDate": "2026-06-16",
+          "trackId": "track_daytona_international_speedway_oval",
+          "trackName": "Daytona International Speedway - Oval",
+          "raceLength": {
+            "type": "minutes",
+            "value": 20
+          },
+          "weather": {
+            "rainChancePercent": 15
+          }
+        }
+      ]
+    }
+  ]
+}

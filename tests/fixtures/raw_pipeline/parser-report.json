@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "sourcePdf": "data/source/SeasonSchedule.pdf",
+  "generatedAt": "2026-06-26T00:00:00Z",
+  "contentHash": "raw-fixture-hash",
+  "counts": {
+    "series": 2,
+    "cars": 2,
+    "tracks": 3,
+    "carClasses": 2,
+    "warnings": 1
+  },
+  "warnings": [
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Mini Stock Rookie Series by Thrustmaster"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "tracks": [
+    {
+      "id": "track_charlotte_motor_speedway_oval",
+      "name": "Charlotte Motor Speedway",
+      "config": "Oval",
+      "displayName": "Charlotte Motor Speedway - Oval",
+      "disciplines": ["oval"],
+      "mappingStatus": "fallback"
+    },
+    {
+      "id": "track_langley_speedway",
+      "name": "Langley Speedway",
+      "config": null,
+      "displayName": "Langley Speedway",
+      "disciplines": ["oval"],
+      "mappingStatus": "fallback"
+    },
+    {
+      "id": "track_daytona_international_speedway_oval",
+      "name": "Daytona International Speedway",
+      "config": "Oval",
+      "displayName": "Daytona International Speedway - Oval",
+      "disciplines": ["oval"],
+      "mappingStatus": "fallback"
+    }
+  ]
+}
