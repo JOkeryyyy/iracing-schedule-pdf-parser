@@ -2,6 +2,7 @@ import json
 import os
 from pathlib import Path
 from urllib.parse import quote
+from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
 
@@ -40,7 +41,15 @@ class SupabasePublisher:
             "Content-Type": "application/json",
             "x-upsert": "true" if upsert else "false",
         }
-        with self.transport.request("POST", url, headers=headers, data=payload) as response:
+        try:
+            response_context = self.request("POST", url, path, "upload", headers=headers, data=payload)
+        except UploadFailure as exc:
+            if not upsert and "already exists" in str(exc):
+                self.verify_existing_content(path, payload)
+                return
+            raise
+
+        with response_context as response:
             body = response.read()
             if response.status >= 300:
                 raise UploadFailure(f"failed to upload {path}: {response.status} {body.decode('utf-8', errors='replace')}")
@@ -48,10 +57,34 @@ class SupabasePublisher:
     def verify_public(self, path):
         encoded_path = quote(path, safe="/")
         url = f"{self.supabase_url}/storage/v1/object/public/{self.bucket}/{encoded_path}"
-        with self.transport.request("GET", url) as response:
+        with self.request("GET", url, path, "verify public access for") as response:
             body = response.read()
             if response.status >= 300:
                 raise UploadFailure(f"failed to verify {path}: {response.status} {body.decode('utf-8', errors='replace')}")
+
+    def verify_existing_content(self, path, expected_payload):
+        existing = self.fetch_public(path)
+        if existing != expected_payload:
+            raise UploadFailure(f"existing immutable file differs from generated content: {path}")
+
+    def fetch_public(self, path):
+        encoded_path = quote(path, safe="/")
+        url = f"{self.supabase_url}/storage/v1/object/public/{self.bucket}/{encoded_path}"
+        with self.request("GET", url, path, "fetch existing public content for") as response:
+            body = response.read()
+            if response.status >= 300:
+                raise UploadFailure(f"failed to fetch {path}: {response.status} {body.decode('utf-8', errors='replace')}")
+            return body
+
+    def request(self, method, url, path, action, headers=None, data=None):
+        try:
+            return self.transport.request(method, url, headers=headers, data=data)
+        except HTTPError as exc:
+            body = exc.read().decode("utf-8", errors="replace") if exc.fp else ""
+            detail = f" {body}" if body else ""
+            raise UploadFailure(f"failed to {action} {path}: {exc.code} {exc.reason}{detail}") from exc
+        except URLError as exc:
+            raise UploadFailure(f"failed to {action} {path}: {exc.reason}") from exc
 
 
 def publisher_from_env():
