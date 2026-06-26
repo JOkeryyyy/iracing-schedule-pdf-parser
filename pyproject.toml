@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "iracing-schedule-pdf-parser"
+version = "0.1.0"
+description = "Parse iRacing season schedule PDFs into normalized JSON files."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+  { name = "Jiahao Gao" }
+]
+dependencies = [
+  "pypdf>=4,<6"
+]
+
+[project.scripts]
+iracing-schedule-pdf = "pdf_schedule_parser.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["pdf_schedule_parser*"]
+
+[tool.unittest]
+start-directory = "tests"

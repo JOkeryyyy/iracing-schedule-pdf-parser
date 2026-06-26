@@ -1,0 +1,2330 @@
+{
+  "schemaVersion": 1,
+  "tracks": [
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Adelaide Street Circuit",
+      "id": "track_adelaide_street_circuit",
+      "mappingStatus": "fallback",
+      "name": "Adelaide Street Circuit"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Algarve International Circuit - Grand Prix",
+      "id": "track_algarve_international_circuit_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Algarve International Circuit"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Autódromo Hermanos Rodríguez - Grand Prix",
+      "id": "track_aut_dromo_hermanos_rodr_guez_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Autódromo Hermanos Rodríguez"
+    },
+    {
+      "config": "National",
+      "disciplines": [
+        "formula_car"
+      ],
+      "displayName": "Autódromo Hermanos Rodríguez - National",
+      "id": "track_aut_dromo_hermanos_rodr_guez_national",
+      "mappingStatus": "fallback",
+      "name": "Autódromo Hermanos Rodríguez"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Autódromo Hermanos Rodríguez - Oval",
+      "id": "track_aut_dromo_hermanos_rodr_guez_oval",
+      "mappingStatus": "fallback",
+      "name": "Autódromo Hermanos Rodríguez"
+    },
+    {
+      "config": "Oval Stadium",
+      "disciplines": [
+        "formula_car"
+      ],
+      "displayName": "Autódromo Hermanos Rodríguez - Oval Stadium",
+      "id": "track_aut_dromo_hermanos_rodr_guez_oval_stadium",
+      "mappingStatus": "fallback",
+      "name": "Autódromo Hermanos Rodríguez"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "dirt_oval",
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Autódromo José Carlos Pace - Grand Prix",
+      "id": "track_aut_dromo_jos_carlos_pace_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Autódromo José Carlos Pace"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "formula_car",
+        "oval",
+        "unranked"
+      ],
+      "displayName": "Auto Club Speedway - Oval",
+      "id": "track_auto_club_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "Auto Club Speedway"
+    },
+    {
+      "config": "Grand",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Autodromo Internazionale del Mugello - Grand",
+      "id": "track_autodromo_internazionale_del_mugello_grand",
+      "mappingStatus": "fallback",
+      "name": "Autodromo Internazionale del Mugello"
+    },
+    {
+      "config": "Short",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Autodromo Internazionale del Mugello - Short",
+      "id": "track_autodromo_internazionale_del_mugello_short",
+      "mappingStatus": "fallback",
+      "name": "Autodromo Internazionale del Mugello"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Autodromo Internazionale Enzo e Dino Ferrari -",
+      "id": "track_autodromo_internazionale_enzo_e_dino_ferrari",
+      "mappingStatus": "fallback",
+      "name": "Autodromo Internazionale Enzo e Dino Ferrari -"
+    },
+    {
+      "config": "GP without first",
+      "disciplines": [
+        "formula_car"
+      ],
+      "displayName": "Autodromo Nazionale Monza - GP without first",
+      "id": "track_autodromo_nazionale_monza_gp_without_first",
+      "mappingStatus": "fallback",
+      "name": "Autodromo Nazionale Monza"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Autodromo Nazionale Monza - Grand Prix",
+      "id": "track_autodromo_nazionale_monza_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Autodromo Nazionale Monza"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Barber Motorsports Park",
+      "id": "track_barber_motorsports_park",
+      "mappingStatus": "fallback",
+      "name": "Barber Motorsports Park"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Bark River International Raceway",
+      "id": "track_bark_river_international_raceway",
+      "mappingStatus": "fallback",
+      "name": "Bark River International Raceway"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Brands Hatch Circuit - Grand Prix",
+      "id": "track_brands_hatch_circuit_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Brands Hatch Circuit"
+    },
+    {
+      "config": "Indy",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Brands Hatch Circuit - Indy",
+      "id": "track_brands_hatch_circuit_indy",
+      "mappingStatus": "fallback",
+      "name": "Brands Hatch Circuit"
+    },
+    {
+      "config": "Rallycross",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Brands Hatch Circuit - Rallycross",
+      "id": "track_brands_hatch_circuit_rallycross",
+      "mappingStatus": "fallback",
+      "name": "Brands Hatch Circuit"
+    },
+    {
+      "config": "Dual Pit Roads",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Bristol Motor Speedway - Dual Pit Roads",
+      "id": "track_bristol_motor_speedway_dual_pit_roads",
+      "mappingStatus": "fallback",
+      "name": "Bristol Motor Speedway"
+    },
+    {
+      "config": "Single Pit Roads",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Bristol Motor Speedway - Single Pit Roads",
+      "id": "track_bristol_motor_speedway_single_pit_roads",
+      "mappingStatus": "fallback",
+      "name": "Bristol Motor Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Canadian Tire Motorsports Park",
+      "id": "track_canadian_tire_motorsports_park",
+      "mappingStatus": "fallback",
+      "name": "Canadian Tire Motorsports Park"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval",
+        "dirt_road"
+      ],
+      "displayName": "Cedar Lake Speedway",
+      "id": "track_cedar_lake_speedway",
+      "mappingStatus": "fallback",
+      "name": "Cedar Lake Speedway"
+    },
+    {
+      "config": "Dirt Road",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Charlotte Motor Speedway - Dirt Road",
+      "id": "track_charlotte_motor_speedway_dirt_road",
+      "mappingStatus": "fallback",
+      "name": "Charlotte Motor Speedway"
+    },
+    {
+      "config": "Infield Road",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Charlotte Motor Speedway - Infield Road",
+      "id": "track_charlotte_motor_speedway_infield_road",
+      "mappingStatus": "fallback",
+      "name": "Charlotte Motor Speedway"
+    },
+    {
+      "config": "Legends Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Charlotte Motor Speedway - Legends Oval",
+      "id": "track_charlotte_motor_speedway_legends_oval",
+      "mappingStatus": "fallback",
+      "name": "Charlotte Motor Speedway"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval",
+        "unranked"
+      ],
+      "displayName": "Charlotte Motor Speedway - Oval",
+      "id": "track_charlotte_motor_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "Charlotte Motor Speedway"
+    },
+    {
+      "config": "Rallyx",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Charlotte Motor Speedway - Rallyx",
+      "id": "track_charlotte_motor_speedway_rallyx",
+      "mappingStatus": "fallback",
+      "name": "Charlotte Motor Speedway"
+    },
+    {
+      "config": "Roval 2019",
+      "disciplines": [
+        "formula_car"
+      ],
+      "displayName": "Charlotte Motor Speedway - Roval 2019",
+      "id": "track_charlotte_motor_speedway_roval_2019",
+      "mappingStatus": "fallback",
+      "name": "Charlotte Motor Speedway"
+    },
+    {
+      "config": "Roval 2025",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Charlotte Motor Speedway - Roval 2025",
+      "id": "track_charlotte_motor_speedway_roval_2025",
+      "mappingStatus": "fallback",
+      "name": "Charlotte Motor Speedway"
+    },
+    {
+      "config": "Roval No Chicanes",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Charlotte Motor Speedway - Roval No Chicanes",
+      "id": "track_charlotte_motor_speedway_roval_no_chicanes",
+      "mappingStatus": "fallback",
+      "name": "Charlotte Motor Speedway"
+    },
+    {
+      "config": "2023 Cup",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Chicago Street Course - 2023 Cup",
+      "id": "track_chicago_street_course_2023_cup",
+      "mappingStatus": "fallback",
+      "name": "Chicago Street Course"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Chicagoland Speedway",
+      "id": "track_chicagoland_speedway",
+      "mappingStatus": "fallback",
+      "name": "Chicagoland Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "displayName": "Chili Bowl",
+      "id": "track_chili_bowl",
+      "mappingStatus": "fallback",
+      "name": "Chili Bowl"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Circuit de Barcelona Catalunya - Grand Prix",
+      "id": "track_circuit_de_barcelona_catalunya_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Circuit de Barcelona Catalunya"
+    },
+    {
+      "config": "Historic",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Circuit de Barcelona Catalunya - Historic",
+      "id": "track_circuit_de_barcelona_catalunya_historic",
+      "mappingStatus": "fallback",
+      "name": "Circuit de Barcelona Catalunya"
+    },
+    {
+      "config": "Rallycross",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Circuit de Barcelona Catalunya - Rallycross",
+      "id": "track_circuit_de_barcelona_catalunya_rallycross",
+      "mappingStatus": "fallback",
+      "name": "Circuit de Barcelona Catalunya"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Circuit de Lédenon",
+      "id": "track_circuit_de_l_denon",
+      "mappingStatus": "fallback",
+      "name": "Circuit de Lédenon"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Circuit de Nevers Magny-Cours - Grand Prix",
+      "id": "track_circuit_de_nevers_magny_cours_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Circuit de Nevers Magny-Cours"
+    },
+    {
+      "config": "Classic Pits",
+      "disciplines": [
+        "formula_car"
+      ],
+      "displayName": "Circuit de Spa-Francorchamps - Classic Pits",
+      "id": "track_circuit_de_spa_francorchamps_classic_pits",
+      "mappingStatus": "fallback",
+      "name": "Circuit de Spa-Francorchamps"
+    },
+    {
+      "config": "Endurance",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Circuit de Spa-Francorchamps - Endurance",
+      "id": "track_circuit_de_spa_francorchamps_endurance",
+      "mappingStatus": "fallback",
+      "name": "Circuit de Spa-Francorchamps"
+    },
+    {
+      "config": "Grand Prix Pits",
+      "disciplines": [
+        "dirt_oval",
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Circuit de Spa-Francorchamps - Grand Prix Pits",
+      "id": "track_circuit_de_spa_francorchamps_grand_prix_pits",
+      "mappingStatus": "fallback",
+      "name": "Circuit de Spa-Francorchamps"
+    },
+    {
+      "config": "24 Heures du",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Circuit des 24 Heures du Mans - 24 Heures du",
+      "id": "track_circuit_des_24_heures_du_mans_24_heures_du",
+      "mappingStatus": "fallback",
+      "name": "Circuit des 24 Heures du Mans"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car"
+      ],
+      "displayName": "Circuit Gilles Villeneuve",
+      "id": "track_circuit_gilles_villeneuve",
+      "mappingStatus": "fallback",
+      "name": "Circuit Gilles Villeneuve"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Circuit of the Americas - Grand Prix",
+      "id": "track_circuit_of_the_americas_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Circuit of the Americas"
+    },
+    {
+      "config": "NASCAR West",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Circuit of the Americas - NASCAR West",
+      "id": "track_circuit_of_the_americas_nascar_west",
+      "mappingStatus": "fallback",
+      "name": "Circuit of the Americas"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Circuit Zandvoort - Grand Prix",
+      "id": "track_circuit_zandvoort_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Circuit Zandvoort"
+    },
+    {
+      "config": "Nationaal",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Circuit Zandvoort - Nationaal",
+      "id": "track_circuit_zandvoort_nationaal",
+      "mappingStatus": "fallback",
+      "name": "Circuit Zandvoort"
+    },
+    {
+      "config": "Alternate",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Circuit Zolder - Alternate",
+      "id": "track_circuit_zolder_alternate",
+      "mappingStatus": "fallback",
+      "name": "Circuit Zolder"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Circuit Zolder - Grand Prix",
+      "id": "track_circuit_zolder_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Circuit Zolder"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Circuito de Jerez - Ángel Nieto - Grand Prix",
+      "id": "track_circuito_de_jerez_ngel_nieto_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Circuito de Jerez - Ángel Nieto"
+    },
+    {
+      "config": "Speed Circuit",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Circuito de Navarra - Speed Circuit",
+      "id": "track_circuito_de_navarra_speed_circuit",
+      "mappingStatus": "fallback",
+      "name": "Circuito de Navarra"
+    },
+    {
+      "config": "Short",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Circuito de Navarra - Speed Circuit - Short",
+      "id": "track_circuito_de_navarra_speed_circuit_short",
+      "mappingStatus": "fallback",
+      "name": "Circuito de Navarra - Speed Circuit"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Concord Speedway",
+      "id": "track_concord_speedway",
+      "mappingStatus": "fallback",
+      "name": "Concord Speedway"
+    },
+    {
+      "config": "Full",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Crandon International Raceway - Full",
+      "id": "track_crandon_international_raceway_full",
+      "mappingStatus": "fallback",
+      "name": "Crandon International Raceway"
+    },
+    {
+      "config": "Short",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Crandon International Raceway - Short",
+      "id": "track_crandon_international_raceway_short",
+      "mappingStatus": "fallback",
+      "name": "Crandon International Raceway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Darlington Raceway",
+      "id": "track_darlington_raceway",
+      "mappingStatus": "fallback",
+      "name": "Darlington Raceway"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval",
+        "unranked"
+      ],
+      "displayName": "Daytona International Speedway - Oval",
+      "id": "track_daytona_international_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "Daytona International Speedway"
+    },
+    {
+      "config": "2008",
+      "disciplines": [
+        "oval",
+        "unranked"
+      ],
+      "displayName": "Daytona International Speedway - Oval - 2008",
+      "id": "track_daytona_international_speedway_oval_2008",
+      "mappingStatus": "fallback",
+      "name": "Daytona International Speedway - Oval"
+    },
+    {
+      "config": "Road Course",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Daytona International Speedway - Road Course",
+      "id": "track_daytona_international_speedway_road_course",
+      "mappingStatus": "fallback",
+      "name": "Daytona International Speedway"
+    },
+    {
+      "config": "Dirt Road",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Daytona Rallycross and Dirt Road - Dirt Road",
+      "id": "track_daytona_rallycross_and_dirt_road_dirt_road",
+      "mappingStatus": "fallback",
+      "name": "Daytona Rallycross and Dirt Road"
+    },
+    {
+      "config": "Rallycross",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Daytona Rallycross and Dirt Road - Rallycross",
+      "id": "track_daytona_rallycross_and_dirt_road_rallycross",
+      "mappingStatus": "fallback",
+      "name": "Daytona Rallycross and Dirt Road"
+    },
+    {
+      "config": "Belle Isle",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Detroit Grand Prix at Belle Isle - Belle Isle",
+      "id": "track_detroit_grand_prix_at_belle_isle_belle_isle",
+      "mappingStatus": "fallback",
+      "name": "Detroit Grand Prix at Belle Isle"
+    },
+    {
+      "config": "National",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Donington Park Racing Circuit - National",
+      "id": "track_donington_park_racing_circuit_national",
+      "mappingStatus": "fallback",
+      "name": "Donington Park Racing Circuit"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval",
+        "unranked"
+      ],
+      "displayName": "EchoPark Speedway (Atlanta) - Oval",
+      "id": "track_echopark_speedway_atlanta_oval",
+      "mappingStatus": "fallback",
+      "name": "EchoPark Speedway (Atlanta)"
+    },
+    {
+      "config": "2008",
+      "disciplines": [
+        "formula_car",
+        "oval"
+      ],
+      "displayName": "EchoPark Speedway (Atlanta) - Oval - 2008",
+      "id": "track_echopark_speedway_atlanta_oval_2008",
+      "mappingStatus": "fallback",
+      "name": "EchoPark Speedway (Atlanta) - Oval"
+    },
+    {
+      "config": "Rallycross Long",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "EchoPark Speedway (Atlanta) - Rallycross Long",
+      "id": "track_echopark_speedway_atlanta_rallycross_long",
+      "mappingStatus": "fallback",
+      "name": "EchoPark Speedway (Atlanta)"
+    },
+    {
+      "config": "Rallycross Short",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "EchoPark Speedway (Atlanta) - Rallycross Short",
+      "id": "track_echopark_speedway_atlanta_rallycross_short",
+      "mappingStatus": "fallback",
+      "name": "EchoPark Speedway (Atlanta)"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval",
+        "dirt_road"
+      ],
+      "displayName": "Eldora Speedway",
+      "id": "track_eldora_speedway",
+      "mappingStatus": "fallback",
+      "name": "Eldora Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "displayName": "Fairbury Speedway",
+      "id": "track_fairbury_speedway",
+      "mappingStatus": "fallback",
+      "name": "Fairbury Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval",
+        "dirt_road",
+        "oval"
+      ],
+      "displayName": "Federated Auto Parts Raceway at I-55",
+      "id": "track_federated_auto_parts_raceway_at_i_55",
+      "mappingStatus": "fallback",
+      "name": "Federated Auto Parts Raceway at I-55"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Firebird Motorsports Park",
+      "id": "track_firebird_motorsports_park",
+      "mappingStatus": "fallback",
+      "name": "Firebird Motorsports Park"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Five Flags Speedway",
+      "id": "track_five_flags_speedway",
+      "mappingStatus": "fallback",
+      "name": "Five Flags Speedway"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "dirt_oval",
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Fuji International Speedway - Grand Prix",
+      "id": "track_fuji_international_speedway_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Fuji International Speedway"
+    },
+    {
+      "config": "No Chicane",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Fuji International Speedway - No Chicane",
+      "id": "track_fuji_international_speedway_no_chicane",
+      "mappingStatus": "fallback",
+      "name": "Fuji International Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Hickory Motor Speedway",
+      "id": "track_hickory_motor_speedway",
+      "mappingStatus": "fallback",
+      "name": "Hickory Motor Speedway"
+    },
+    {
+      "config": "Grand",
+      "disciplines": [
+        "dirt_oval",
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Hockenheimring Baden-Württemberg - Grand",
+      "id": "track_hockenheimring_baden_w_rttemberg_grand",
+      "mappingStatus": "fallback",
+      "name": "Hockenheimring Baden-Württemberg"
+    },
+    {
+      "config": "National",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Hockenheimring Baden-Württemberg - National",
+      "id": "track_hockenheimring_baden_w_rttemberg_national",
+      "mappingStatus": "fallback",
+      "name": "Hockenheimring Baden-Württemberg"
+    },
+    {
+      "config": "Outer",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Hockenheimring Baden-Württemberg - Outer",
+      "id": "track_hockenheimring_baden_w_rttemberg_outer",
+      "mappingStatus": "fallback",
+      "name": "Hockenheimring Baden-Württemberg"
+    },
+    {
+      "config": "Open Wheel",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Homestead Miami Speedway - Open Wheel",
+      "id": "track_homestead_miami_speedway_open_wheel",
+      "mappingStatus": "fallback",
+      "name": "Homestead Miami Speedway"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Homestead Miami Speedway - Oval",
+      "id": "track_homestead_miami_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "Homestead Miami Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval",
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Hungaroring",
+      "id": "track_hungaroring",
+      "mappingStatus": "fallback",
+      "name": "Hungaroring"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval",
+        "dirt_road"
+      ],
+      "displayName": "Huset's Speedway",
+      "id": "track_huset_s_speedway",
+      "mappingStatus": "fallback",
+      "name": "Huset's Speedway"
+    },
+    {
+      "config": "NASCAR Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Indianapolis Motor Speedway - NASCAR Oval",
+      "id": "track_indianapolis_motor_speedway_nascar_oval",
+      "mappingStatus": "fallback",
+      "name": "Indianapolis Motor Speedway"
+    },
+    {
+      "config": "Open Wheel",
+      "disciplines": [
+        "formula_car"
+      ],
+      "displayName": "Indianapolis Motor Speedway - Open Wheel",
+      "id": "track_indianapolis_motor_speedway_open_wheel",
+      "mappingStatus": "fallback",
+      "name": "Indianapolis Motor Speedway"
+    },
+    {
+      "config": "Road Course",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Indianapolis Motor Speedway - Road Course",
+      "id": "track_indianapolis_motor_speedway_road_course",
+      "mappingStatus": "fallback",
+      "name": "Indianapolis Motor Speedway"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Iowa Speedway - Oval",
+      "id": "track_iowa_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "Iowa Speedway"
+    },
+    {
+      "config": "2011",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Iowa Speedway - Oval - 2011 - Oval - 2011",
+      "id": "track_iowa_speedway_oval_2011_oval_2011",
+      "mappingStatus": "fallback",
+      "name": "Iowa Speedway - Oval - 2011 - Oval"
+    },
+    {
+      "config": "2017",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Iowa Speedway - Rallycross - 2017",
+      "id": "track_iowa_speedway_rallycross_2017",
+      "mappingStatus": "fallback",
+      "name": "Iowa Speedway - Rallycross"
+    },
+    {
+      "config": "Outer",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Irwindale Speedway - Outer",
+      "id": "track_irwindale_speedway_outer",
+      "mappingStatus": "fallback",
+      "name": "Irwindale Speedway"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Kansas Speedway - Oval",
+      "id": "track_kansas_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "Kansas Speedway"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Kentucky Speedway - Oval",
+      "id": "track_kentucky_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "Kentucky Speedway"
+    },
+    {
+      "config": "Asphalt Track",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Kevin Harvick's Kern Raceway - Asphalt Track",
+      "id": "track_kevin_harvick_s_kern_raceway_asphalt_track",
+      "mappingStatus": "fallback",
+      "name": "Kevin Harvick's Kern Raceway"
+    },
+    {
+      "config": "Dirt Track",
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "displayName": "Kevin Harvick's Kern Raceway - Dirt Track",
+      "id": "track_kevin_harvick_s_kern_raceway_dirt_track",
+      "mappingStatus": "fallback",
+      "name": "Kevin Harvick's Kern Raceway"
+    },
+    {
+      "config": "Rallycross",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Knockhill Racing Circuit - Rallycross",
+      "id": "track_knockhill_racing_circuit_rallycross",
+      "mappingStatus": "fallback",
+      "name": "Knockhill Racing Circuit"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval",
+        "dirt_road",
+        "oval"
+      ],
+      "displayName": "Knoxville Raceway",
+      "id": "track_knoxville_raceway",
+      "mappingStatus": "fallback",
+      "name": "Knoxville Raceway"
+    },
+    {
+      "config": "Tires in",
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "displayName": "Kokomo Speedway - Tires in",
+      "id": "track_kokomo_speedway_tires_in",
+      "mappingStatus": "fallback",
+      "name": "Kokomo Speedway"
+    },
+    {
+      "config": "Tires out",
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "displayName": "Kokomo Speedway - Tires out",
+      "id": "track_kokomo_speedway_tires_out",
+      "mappingStatus": "fallback",
+      "name": "Kokomo Speedway"
+    },
+    {
+      "config": "Hell Rallycross",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Lånkebanen (Hell RX) - Hell Rallycross",
+      "id": "track_l_nkebanen_hell_rx_hell_rallycross",
+      "mappingStatus": "fallback",
+      "name": "Lånkebanen (Hell RX)"
+    },
+    {
+      "config": "Rallycross Short",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Lånkebanen (Hell RX) - Rallycross Short",
+      "id": "track_l_nkebanen_hell_rx_rallycross_short",
+      "mappingStatus": "fallback",
+      "name": "Lånkebanen (Hell RX)"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Langley Speedway",
+      "id": "track_langley_speedway",
+      "mappingStatus": "fallback",
+      "name": "Langley Speedway"
+    },
+    {
+      "config": "Asphalt",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Lanier National Speedway - Asphalt",
+      "id": "track_lanier_national_speedway_asphalt",
+      "mappingStatus": "fallback",
+      "name": "Lanier National Speedway"
+    },
+    {
+      "config": "Dirt",
+      "disciplines": [
+        "dirt_oval",
+        "dirt_road"
+      ],
+      "displayName": "Lanier National Speedway - Dirt",
+      "id": "track_lanier_national_speedway_dirt",
+      "mappingStatus": "fallback",
+      "name": "Lanier National Speedway"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Las Vegas Motor Speedway - Oval",
+      "id": "track_las_vegas_motor_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "Las Vegas Motor Speedway"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "[Legacy] Kentucky Speedway - 2011 - Oval",
+      "id": "track_legacy_kentucky_speedway_2011_oval",
+      "mappingStatus": "fallback",
+      "name": "[Legacy] Kentucky Speedway - 2011"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "[Legacy] Michigan International Speedway -",
+      "id": "track_legacy_michigan_international_speedway",
+      "mappingStatus": "fallback",
+      "name": "[Legacy] Michigan International Speedway -"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval",
+        "unranked"
+      ],
+      "displayName": "[Legacy] Phoenix Raceway - 2008 - Oval",
+      "id": "track_legacy_phoenix_raceway_2008_oval",
+      "mappingStatus": "fallback",
+      "name": "[Legacy] Phoenix Raceway - 2008"
+    },
+    {
+      "config": "Rallycross",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "[Legacy] Phoenix Raceway - 2008 - Rallycross",
+      "id": "track_legacy_phoenix_raceway_2008_rallycross",
+      "mappingStatus": "fallback",
+      "name": "[Legacy] Phoenix Raceway - 2008"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "unranked"
+      ],
+      "displayName": "[Legacy] Pocono Raceway - 2009 - Oval",
+      "id": "track_legacy_pocono_raceway_2009_oval",
+      "mappingStatus": "fallback",
+      "name": "[Legacy] Pocono Raceway - 2009"
+    },
+    {
+      "config": "Historical",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "[Legacy] Silverstone Circuit - 2008 - Historical",
+      "id": "track_legacy_silverstone_circuit_2008_historical",
+      "mappingStatus": "fallback",
+      "name": "[Legacy] Silverstone Circuit - 2008"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "displayName": "Lernerville Speedway",
+      "id": "track_lernerville_speedway",
+      "mappingStatus": "fallback",
+      "name": "Lernerville Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "displayName": "Limaland Motorsports Park",
+      "id": "track_limaland_motorsports_park",
+      "mappingStatus": "fallback",
+      "name": "Limaland Motorsports Park"
+    },
+    {
+      "config": "Classic",
+      "disciplines": [
+        "formula_car",
+        "oval",
+        "sports_car"
+      ],
+      "displayName": "Lime Rock Park - Classic",
+      "id": "track_lime_rock_park_classic",
+      "mappingStatus": "fallback",
+      "name": "Lime Rock Park"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "oval",
+        "sports_car"
+      ],
+      "displayName": "Lime Rock Park - Grand Prix",
+      "id": "track_lime_rock_park_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Lime Rock Park"
+    },
+    {
+      "config": "West Bend Chicane",
+      "disciplines": [
+        "formula_car"
+      ],
+      "displayName": "Lime Rock Park - West Bend Chicane",
+      "id": "track_lime_rock_park_west_bend_chicane",
+      "mappingStatus": "fallback",
+      "name": "Lime Rock Park"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "displayName": "Lincoln Speedway",
+      "id": "track_lincoln_speedway",
+      "mappingStatus": "fallback",
+      "name": "Lincoln Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "oval",
+        "sports_car"
+      ],
+      "displayName": "Long Beach Street Circuit",
+      "id": "track_long_beach_street_circuit",
+      "mappingStatus": "fallback",
+      "name": "Long Beach Street Circuit"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Lucas Oil Indianapolis Raceway Park -",
+      "id": "track_lucas_oil_indianapolis_raceway_park",
+      "mappingStatus": "fallback",
+      "name": "Lucas Oil Indianapolis Raceway Park -"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Lucas Oil Indianapolis Raceway Park - Oval",
+      "id": "track_lucas_oil_indianapolis_raceway_park_oval",
+      "mappingStatus": "fallback",
+      "name": "Lucas Oil Indianapolis Raceway Park"
+    },
+    {
+      "config": "Dirt Oval",
+      "disciplines": [
+        "dirt_oval",
+        "oval"
+      ],
+      "displayName": "Lucas Oil Speedway - Dirt Oval",
+      "id": "track_lucas_oil_speedway_dirt_oval",
+      "mappingStatus": "fallback",
+      "name": "Lucas Oil Speedway"
+    },
+    {
+      "config": "Dirt Road",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Lucas Oil Speedway - Dirt Road",
+      "id": "track_lucas_oil_speedway_dirt_road",
+      "mappingStatus": "fallback",
+      "name": "Lucas Oil Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Martinsville Speedway",
+      "id": "track_martinsville_speedway",
+      "mappingStatus": "fallback",
+      "name": "Martinsville Speedway"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Miami International Autodrome - Grand Prix",
+      "id": "track_miami_international_autodrome_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Miami International Autodrome"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval",
+        "unranked"
+      ],
+      "displayName": "Michigan International Speedway",
+      "id": "track_michigan_international_speedway",
+      "mappingStatus": "fallback",
+      "name": "Michigan International Speedway"
+    },
+    {
+      "config": "Alt Oval",
+      "disciplines": [
+        "formula_car"
+      ],
+      "displayName": "Mid-Ohio Sports Car Course - Alt Oval",
+      "id": "track_mid_ohio_sports_car_course_alt_oval",
+      "mappingStatus": "fallback",
+      "name": "Mid-Ohio Sports Car Course"
+    },
+    {
+      "config": "Full Course",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Mid-Ohio Sports Car Course - Full Course",
+      "id": "track_mid_ohio_sports_car_course_full_course",
+      "mappingStatus": "fallback",
+      "name": "Mid-Ohio Sports Car Course"
+    },
+    {
+      "config": "Grand",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Misano World Circuit Marco Simoncelli - Grand",
+      "id": "track_misano_world_circuit_marco_simoncelli_grand",
+      "mappingStatus": "fallback",
+      "name": "Misano World Circuit Marco Simoncelli"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "oval",
+        "sports_car"
+      ],
+      "displayName": "Mobility Resort Motegi - Grand Prix",
+      "id": "track_mobility_resort_motegi_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Mobility Resort Motegi"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "formula_car",
+        "oval"
+      ],
+      "displayName": "Mobility Resort Motegi - Oval",
+      "id": "track_mobility_resort_motegi_oval",
+      "mappingStatus": "fallback",
+      "name": "Mobility Resort Motegi"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "MotorLand Aragón - Grand Prix",
+      "id": "track_motorland_arag_n_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "MotorLand Aragón"
+    },
+    {
+      "config": "B Course",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Motorsport Arena Oschersleben - B Course",
+      "id": "track_motorsport_arena_oschersleben_b_course",
+      "mappingStatus": "fallback",
+      "name": "Motorsport Arena Oschersleben"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Motorsport Arena Oschersleben - Grand Prix",
+      "id": "track_motorsport_arena_oschersleben_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Motorsport Arena Oschersleben"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Mount Panorama Circuit",
+      "id": "track_mount_panorama_circuit",
+      "mappingStatus": "fallback",
+      "name": "Mount Panorama Circuit"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Myrtle Beach Speedway",
+      "id": "track_myrtle_beach_speedway",
+      "mappingStatus": "fallback",
+      "name": "Myrtle Beach Speedway"
+    },
+    {
+      "config": "Gesamtstrecke 24h",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Nürburgring Combined - Gesamtstrecke 24h",
+      "id": "track_n_rburgring_combined_gesamtstrecke_24h",
+      "mappingStatus": "fallback",
+      "name": "Nürburgring Combined"
+    },
+    {
+      "config": "Gesamtstrecke VLN",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Nürburgring Combined - Gesamtstrecke VLN",
+      "id": "track_n_rburgring_combined_gesamtstrecke_vln",
+      "mappingStatus": "fallback",
+      "name": "Nürburgring Combined"
+    },
+    {
+      "config": "BES/WEC",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Nürburgring Grand-Prix-Strecke - BES/WEC",
+      "id": "track_n_rburgring_grand_prix_strecke_bes_wec",
+      "mappingStatus": "fallback",
+      "name": "Nürburgring Grand-Prix-Strecke"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Nürburgring Grand-Prix-Strecke - Grand Prix",
+      "id": "track_n_rburgring_grand_prix_strecke_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Nürburgring Grand-Prix-Strecke"
+    },
+    {
+      "config": "Sprintstrecke",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Nürburgring Grand-Prix-Strecke - Sprintstrecke",
+      "id": "track_n_rburgring_grand_prix_strecke_sprintstrecke",
+      "mappingStatus": "fallback",
+      "name": "Nürburgring Grand-Prix-Strecke"
+    },
+    {
+      "config": "Industriefahrten",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Nürburgring Nordschleife - Industriefahrten",
+      "id": "track_n_rburgring_nordschleife_industriefahrten",
+      "mappingStatus": "fallback",
+      "name": "Nürburgring Nordschleife"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Nashville Fairgrounds Speedway - Oval",
+      "id": "track_nashville_fairgrounds_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "Nashville Fairgrounds Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "oval"
+      ],
+      "displayName": "Nashville Superspeedway",
+      "id": "track_nashville_superspeedway",
+      "mappingStatus": "fallback",
+      "name": "Nashville Superspeedway"
+    },
+    {
+      "config": "Legends",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "New Hampshire Motor Speedway - Legends",
+      "id": "track_new_hampshire_motor_speedway_legends",
+      "mappingStatus": "fallback",
+      "name": "New Hampshire Motor Speedway"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval",
+        "unranked"
+      ],
+      "displayName": "New Hampshire Motor Speedway - Oval",
+      "id": "track_new_hampshire_motor_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "New Hampshire Motor Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "New Smyrna Speedway",
+      "id": "track_new_smyrna_speedway",
+      "mappingStatus": "fallback",
+      "name": "New Smyrna Speedway"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "North Wilkesboro Speedway - Oval",
+      "id": "track_north_wilkesboro_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "North Wilkesboro Speedway"
+    },
+    {
+      "config": "1987",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "North Wilkesboro Speedway - Oval - 1987",
+      "id": "track_north_wilkesboro_speedway_oval_1987",
+      "mappingStatus": "fallback",
+      "name": "North Wilkesboro Speedway - Oval"
+    },
+    {
+      "config": "Full Course",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Okayama International Circuit - Full Course",
+      "id": "track_okayama_international_circuit_full_course",
+      "mappingStatus": "fallback",
+      "name": "Okayama International Circuit"
+    },
+    {
+      "config": "Short",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Okayama International Circuit - Short",
+      "id": "track_okayama_international_circuit_short",
+      "mappingStatus": "fallback",
+      "name": "Okayama International Circuit"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Oran Park Raceway - Grand Prix",
+      "id": "track_oran_park_raceway_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Oran Park Raceway"
+    },
+    {
+      "config": "South",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Oran Park Raceway - South",
+      "id": "track_oran_park_raceway_south",
+      "mappingStatus": "fallback",
+      "name": "Oran Park Raceway"
+    },
+    {
+      "config": "Dirt",
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "displayName": "Oswego Speedway - Dirt",
+      "id": "track_oswego_speedway_dirt",
+      "mappingStatus": "fallback",
+      "name": "Oswego Speedway"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Oswego Speedway - Oval",
+      "id": "track_oswego_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "Oswego Speedway"
+    },
+    {
+      "config": "Fosters",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Oulton Park Circuit - Fosters",
+      "id": "track_oulton_park_circuit_fosters",
+      "mappingStatus": "fallback",
+      "name": "Oulton Park Circuit"
+    },
+    {
+      "config": "Fosters w/Hislop",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Oulton Park Circuit - Fosters w/Hislop",
+      "id": "track_oulton_park_circuit_fosters_w_hislop",
+      "mappingStatus": "fallback",
+      "name": "Oulton Park Circuit"
+    },
+    {
+      "config": "International",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Oulton Park Circuit - International",
+      "id": "track_oulton_park_circuit_international",
+      "mappingStatus": "fallback",
+      "name": "Oulton Park Circuit"
+    },
+    {
+      "config": "Intl w/no Chicanes",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Oulton Park Circuit - Intl w/no Chicanes",
+      "id": "track_oulton_park_circuit_intl_w_no_chicanes",
+      "mappingStatus": "fallback",
+      "name": "Oulton Park Circuit"
+    },
+    {
+      "config": "Intl w/out Brittens",
+      "disciplines": [
+        "formula_car"
+      ],
+      "displayName": "Oulton Park Circuit - Intl w/out Brittens",
+      "id": "track_oulton_park_circuit_intl_w_out_brittens",
+      "mappingStatus": "fallback",
+      "name": "Oulton Park Circuit"
+    },
+    {
+      "config": "Island",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Oulton Park Circuit - Island",
+      "id": "track_oulton_park_circuit_island",
+      "mappingStatus": "fallback",
+      "name": "Oulton Park Circuit"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Oxford Plains Speedway",
+      "id": "track_oxford_plains_speedway",
+      "mappingStatus": "fallback",
+      "name": "Oxford Plains Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Phillip Island Circuit",
+      "id": "track_phillip_island_circuit",
+      "mappingStatus": "fallback",
+      "name": "Phillip Island Circuit"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "formula_car",
+        "unranked"
+      ],
+      "displayName": "Phoenix Raceway - Oval",
+      "id": "track_phoenix_raceway_oval",
+      "mappingStatus": "fallback",
+      "name": "Phoenix Raceway"
+    },
+    {
+      "config": "Oval w/open dogleg",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Phoenix Raceway - Oval w/open dogleg",
+      "id": "track_phoenix_raceway_oval_w_open_dogleg",
+      "mappingStatus": "fallback",
+      "name": "Phoenix Raceway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "oval",
+        "unranked"
+      ],
+      "displayName": "Pocono Raceway",
+      "id": "track_pocono_raceway",
+      "mappingStatus": "fallback",
+      "name": "Pocono Raceway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "displayName": "Port Royal Speedway",
+      "id": "track_port_royal_speedway",
+      "mappingStatus": "fallback",
+      "name": "Port Royal Speedway"
+    },
+    {
+      "config": "Full Circuit",
+      "disciplines": [
+        "formula_car",
+        "oval"
+      ],
+      "displayName": "Portland International Raceway - Full Circuit",
+      "id": "track_portland_international_raceway_full_circuit",
+      "mappingStatus": "fallback",
+      "name": "Portland International Raceway"
+    },
+    {
+      "config": "No Chicane",
+      "disciplines": [
+        "formula_car"
+      ],
+      "displayName": "Portland International Raceway - No Chicane",
+      "id": "track_portland_international_raceway_no_chicane",
+      "mappingStatus": "fallback",
+      "name": "Portland International Raceway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "oval",
+        "sports_car"
+      ],
+      "displayName": "Qualcomm Circuit (Naval Base Coronado)",
+      "id": "track_qualcomm_circuit_naval_base_coronado",
+      "mappingStatus": "fallback",
+      "name": "Qualcomm Circuit (Naval Base Coronado)"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "dirt_oval",
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Red Bull Ring - Grand Prix",
+      "id": "track_red_bull_ring_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Red Bull Ring"
+    },
+    {
+      "config": "National",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Red Bull Ring - National",
+      "id": "track_red_bull_ring_national",
+      "mappingStatus": "fallback",
+      "name": "Red Bull Ring"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Richmond Raceway",
+      "id": "track_richmond_raceway",
+      "mappingStatus": "fallback",
+      "name": "Richmond Raceway"
+    },
+    {
+      "config": "Bend",
+      "disciplines": [
+        "formula_car"
+      ],
+      "displayName": "Road America - Bend",
+      "id": "track_road_america_bend",
+      "mappingStatus": "fallback",
+      "name": "Road America"
+    },
+    {
+      "config": "Full Course",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Road America - Full Course",
+      "id": "track_road_america_full_course",
+      "mappingStatus": "fallback",
+      "name": "Road America"
+    },
+    {
+      "config": "Full Course",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Road Atlanta - Full Course",
+      "id": "track_road_atlanta_full_course",
+      "mappingStatus": "fallback",
+      "name": "Road Atlanta"
+    },
+    {
+      "config": "Short",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Road Atlanta - Short",
+      "id": "track_road_atlanta_short",
+      "mappingStatus": "fallback",
+      "name": "Road Atlanta"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Rockingham Speedway - Oval",
+      "id": "track_rockingham_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "Rockingham Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Rudskogen Motorsenter",
+      "id": "track_rudskogen_motorsenter",
+      "mappingStatus": "fallback",
+      "name": "Rudskogen Motorsenter"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Sachsenring",
+      "id": "track_sachsenring",
+      "mappingStatus": "fallback",
+      "name": "Sachsenring"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Sandown International Motor Raceway",
+      "id": "track_sandown_international_motor_raceway",
+      "mappingStatus": "fallback",
+      "name": "Sandown International Motor Raceway"
+    },
+    {
+      "config": "International",
+      "disciplines": [
+        "dirt_oval",
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Sebring International Raceway - International",
+      "id": "track_sebring_international_raceway_international",
+      "mappingStatus": "fallback",
+      "name": "Sebring International Raceway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Shell V-Power Motorsport Park at The Bend -",
+      "id": "track_shell_v_power_motorsport_park_at_the_bend",
+      "mappingStatus": "fallback",
+      "name": "Shell V-Power Motorsport Park at The Bend -"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "dirt_oval",
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Silverstone Circuit - Grand Prix",
+      "id": "track_silverstone_circuit_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Silverstone Circuit"
+    },
+    {
+      "config": "National",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Silverstone Circuit - National",
+      "id": "track_silverstone_circuit_national",
+      "mappingStatus": "fallback",
+      "name": "Silverstone Circuit"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Slinger Speedway - Oval",
+      "id": "track_slinger_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "Slinger Speedway"
+    },
+    {
+      "config": "100",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Snetterton Circuit - 100",
+      "id": "track_snetterton_circuit_100",
+      "mappingStatus": "fallback",
+      "name": "Snetterton Circuit"
+    },
+    {
+      "config": "200",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Snetterton Circuit - 200",
+      "id": "track_snetterton_circuit_200",
+      "mappingStatus": "fallback",
+      "name": "Snetterton Circuit"
+    },
+    {
+      "config": "300",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Snetterton Circuit - 300",
+      "id": "track_snetterton_circuit_300",
+      "mappingStatus": "fallback",
+      "name": "Snetterton Circuit"
+    },
+    {
+      "config": "Cup Short",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Sonoma Raceway - Cup Short",
+      "id": "track_sonoma_raceway_cup_short",
+      "mappingStatus": "fallback",
+      "name": "Sonoma Raceway"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Sonoma Raceway - Oval",
+      "id": "track_sonoma_raceway_oval",
+      "mappingStatus": "fallback",
+      "name": "Sonoma Raceway"
+    },
+    {
+      "config": "Rallycross",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Sonoma Raceway - Rallycross",
+      "id": "track_sonoma_raceway_rallycross",
+      "mappingStatus": "fallback",
+      "name": "Sonoma Raceway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "South Boston Speedway",
+      "id": "track_south_boston_speedway",
+      "mappingStatus": "fallback",
+      "name": "South Boston Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Southern National Motorsports Park",
+      "id": "track_southern_national_motorsports_park",
+      "mappingStatus": "fallback",
+      "name": "Southern National Motorsports Park"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "St. Petersburg Grand Prix - Grand Prix",
+      "id": "track_st_petersburg_grand_prix_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "St. Petersburg Grand Prix"
+    },
+    {
+      "config": "Full Course",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Stafford Motor Speedway - Full Course",
+      "id": "track_stafford_motor_speedway_full_course",
+      "mappingStatus": "fallback",
+      "name": "Stafford Motor Speedway"
+    },
+    {
+      "config": "Summit Point Raceway",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Summit Point Raceway - Summit Point Raceway",
+      "id": "track_summit_point_raceway_summit_point_raceway",
+      "mappingStatus": "fallback",
+      "name": "Summit Point Raceway"
+    },
+    {
+      "config": "Grand Prix",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Suzuka International Racing Course - Grand Prix",
+      "id": "track_suzuka_international_racing_course_grand_prix",
+      "mappingStatus": "fallback",
+      "name": "Suzuka International Racing Course"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "oval",
+        "unranked"
+      ],
+      "displayName": "Talladega Superspeedway",
+      "id": "track_talladega_superspeedway",
+      "mappingStatus": "fallback",
+      "name": "Talladega Superspeedway"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval",
+        "unranked"
+      ],
+      "displayName": "Texas Motor Speedway - Oval",
+      "id": "track_texas_motor_speedway_oval",
+      "mappingStatus": "fallback",
+      "name": "Texas Motor Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "The Bullring",
+      "id": "track_the_bullring",
+      "mappingStatus": "fallback",
+      "name": "The Bullring"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "displayName": "The Dirt Track at Charlotte",
+      "id": "track_the_dirt_track_at_charlotte",
+      "mappingStatus": "fallback",
+      "name": "The Dirt Track at Charlotte"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "The Milwaukee Mile",
+      "id": "track_the_milwaukee_mile",
+      "mappingStatus": "fallback",
+      "name": "The Milwaukee Mile"
+    },
+    {
+      "config": "Oval",
+      "disciplines": [
+        "oval"
+      ],
+      "displayName": "Thompson Speedway Motorsports Park - Oval",
+      "id": "track_thompson_speedway_motorsports_park_oval",
+      "mappingStatus": "fallback",
+      "name": "Thompson Speedway Motorsports Park"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car"
+      ],
+      "displayName": "Thruxton Circuit",
+      "id": "track_thruxton_circuit",
+      "mappingStatus": "fallback",
+      "name": "Thruxton Circuit"
+    },
+    {
+      "config": "1000 Chicane",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Tsukuba Circuit - 1000 Chicane",
+      "id": "track_tsukuba_circuit_1000_chicane",
+      "mappingStatus": "fallback",
+      "name": "Tsukuba Circuit"
+    },
+    {
+      "config": "2000 Full",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Tsukuba Circuit - 2000 Full",
+      "id": "track_tsukuba_circuit_2000_full",
+      "mappingStatus": "fallback",
+      "name": "Tsukuba Circuit"
+    },
+    {
+      "config": "Asphalt",
+      "disciplines": [
+        "formula_car",
+        "oval"
+      ],
+      "displayName": "USA International Speedway - Asphalt",
+      "id": "track_usa_international_speedway_asphalt",
+      "mappingStatus": "fallback",
+      "name": "USA International Speedway"
+    },
+    {
+      "config": "Dirt",
+      "disciplines": [
+        "dirt_oval",
+        "dirt_road"
+      ],
+      "displayName": "USA International Speedway - Dirt",
+      "id": "track_usa_international_speedway_dirt",
+      "mappingStatus": "fallback",
+      "name": "USA International Speedway"
+    },
+    {
+      "config": "Full Course",
+      "disciplines": [
+        "dirt_oval",
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Virginia International Raceway - Full Course",
+      "id": "track_virginia_international_raceway_full_course",
+      "mappingStatus": "fallback",
+      "name": "Virginia International Raceway"
+    },
+    {
+      "config": "North Course",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Virginia International Raceway - North Course",
+      "id": "track_virginia_international_raceway_north_course",
+      "mappingStatus": "fallback",
+      "name": "Virginia International Raceway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval",
+        "dirt_road"
+      ],
+      "displayName": "Volusia Speedway Park",
+      "id": "track_volusia_speedway_park",
+      "mappingStatus": "fallback",
+      "name": "Volusia Speedway Park"
+    },
+    {
+      "config": "Boot",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Watkins Glen International - Boot",
+      "id": "track_watkins_glen_international_boot",
+      "mappingStatus": "fallback",
+      "name": "Watkins Glen International"
+    },
+    {
+      "config": "Classic",
+      "disciplines": [
+        "sports_car"
+      ],
+      "displayName": "Watkins Glen International - Classic",
+      "id": "track_watkins_glen_international_classic",
+      "mappingStatus": "fallback",
+      "name": "Watkins Glen International"
+    },
+    {
+      "config": "Classic Boot",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Watkins Glen International - Classic Boot",
+      "id": "track_watkins_glen_international_classic_boot",
+      "mappingStatus": "fallback",
+      "name": "Watkins Glen International"
+    },
+    {
+      "config": "Cup",
+      "disciplines": [
+        "oval",
+        "sports_car"
+      ],
+      "displayName": "Watkins Glen International - Cup",
+      "id": "track_watkins_glen_international_cup",
+      "mappingStatus": "fallback",
+      "name": "Watkins Glen International"
+    },
+    {
+      "config": "2026",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "WeatherTech Raceway at Laguna Seca - 2026",
+      "id": "track_weathertech_raceway_at_laguna_seca_2026",
+      "mappingStatus": "fallback",
+      "name": "WeatherTech Raceway at Laguna Seca"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval",
+        "dirt_road"
+      ],
+      "displayName": "Weedsport Speedway",
+      "id": "track_weedsport_speedway",
+      "mappingStatus": "fallback",
+      "name": "Weedsport Speedway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Wild West Motorsports Park",
+      "id": "track_wild_west_motorsports_park",
+      "mappingStatus": "fallback",
+      "name": "Wild West Motorsports Park"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "dirt_oval",
+        "dirt_road"
+      ],
+      "displayName": "Williams Grove Speedway",
+      "id": "track_williams_grove_speedway",
+      "mappingStatus": "fallback",
+      "name": "Williams Grove Speedway"
+    },
+    {
+      "config": "Big",
+      "disciplines": [
+        "oval",
+        "sports_car"
+      ],
+      "displayName": "Willow Springs International Raceway - Big",
+      "id": "track_willow_springs_international_raceway_big",
+      "mappingStatus": "fallback",
+      "name": "Willow Springs International Raceway"
+    },
+    {
+      "config": "National Circuit",
+      "disciplines": [
+        "formula_car",
+        "sports_car"
+      ],
+      "displayName": "Winton Motor Raceway - National Circuit",
+      "id": "track_winton_motor_raceway_national_circuit",
+      "mappingStatus": "fallback",
+      "name": "Winton Motor Raceway"
+    },
+    {
+      "config": "Rallycross",
+      "disciplines": [
+        "dirt_road"
+      ],
+      "displayName": "Winton Motor Raceway - Rallycross",
+      "id": "track_winton_motor_raceway_rallycross",
+      "mappingStatus": "fallback",
+      "name": "Winton Motor Raceway"
+    },
+    {
+      "config": null,
+      "disciplines": [
+        "formula_car",
+        "oval",
+        "sports_car"
+      ],
+      "displayName": "World Wide Technology Raceway (Gateway) -",
+      "id": "track_world_wide_technology_raceway_gateway",
+      "mappingStatus": "fallback",
+      "name": "World Wide Technology Raceway (Gateway) -"
+    }
+  ]
+}

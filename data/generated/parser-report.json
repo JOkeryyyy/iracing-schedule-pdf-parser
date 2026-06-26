@@ -1,0 +1,555 @@
+{
+  "contentHash": "7b27b33e1151b911729a873acfe74af4938fd76c445c1efeaa09eb085850ae1b",
+  "counts": {
+    "carClasses": 82,
+    "cars": 82,
+    "series": 148,
+    "tracks": 221,
+    "warnings": 108
+  },
+  "generatedAt": "2026-06-26T15:04:05Z",
+  "schemaVersion": 1,
+  "sourcePdf": "data/source/SeasonSchedule.pdf",
+  "warnings": [
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Mini Stock Rookie Series by Thrustmaster",
+      "page": 6
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Rookie Legends Cup by Simshop",
+      "page": 7
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Draft Master Challenge by Simagic",
+      "page": 12
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Jr Open Wheel Oval Challenge",
+      "page": 13
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for SK Modified Weekly Series",
+      "page": 15
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for CARS Tour Late Model Stocks",
+      "page": 17
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Legends Cup by Go Motorsports Shop",
+      "page": 19
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for NASCAR iRacing Class C Series Series",
+      "page": 24
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for NASCAR iRacing Series - 2026 Season Open",
+      "page": 33
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for NASCAR Tour Modified Series",
+      "page": 39
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Street Stock Series by Next Level Racing",
+      "page": 41
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Super Late Model Series",
+      "page": 43
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for NASCAR iRacing Class B Series Series",
+      "page": 51
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Silver Crown Cup",
+      "page": 57
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Sprint Car Cup",
+      "page": 58
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for NASCAR Class A Series",
+      "page": 60
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for BMW M2 Cup",
+      "page": 64
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Global Mazda MX-5 Cup by Fanatec",
+      "page": 65
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for BMW M Power Challenge",
+      "page": 66
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Clio Cup",
+      "page": 67
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Ford Mustang Challenge by Skip Barber",
+      "page": 68
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Global Sports Car Challenge by Fanatec",
+      "page": 69
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Legends Road Cup by Go Motorsports Shop",
+      "page": 70
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Mission R Challenge",
+      "page": 71
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for NASCAR Euro Series",
+      "page": 72
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Nurburgring Endurance Championship",
+      "page": 73
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Production Car Challenge by Sim-Lab",
+      "page": 77
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Production Endurance Challenge",
+      "page": 78
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Rain Master Challenge by Podium 1",
+      "page": 80
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Spec Racer Ford Challenge",
+      "page": 81
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for TCR Virtual Challenge",
+      "page": 82
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Toyota GR86 Cup by SIMAGIC",
+      "page": 84
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Advanced Mazda MX-5 Cup by Heusinkveld",
+      "page": 85
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Creventic Endurance Series",
+      "page": 86
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Ferrari 296 Challenge",
+      "page": 87
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for GT Endurance Series by Simucube",
+      "page": 88
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for GT4 Falken Tyre Challenge",
+      "page": 89
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for IMSA Michelin Pilot Challenge",
+      "page": 90
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for IMSA Sportscar Endurance Challenge",
+      "page": 91
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for IMSA Vintage Series",
+      "page": 92
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for iRacing Porsche Cup by CONSPIT",
+      "page": 94
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for LMP3 Trophy",
+      "page": 95
+    },
+    {
+      "code": "startTypeUnknown",
+      "message": "Start type needs manual review for LMP3 Trophy",
+      "page": 95
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Radical Esports Cup",
+      "page": 96
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Ring Meister by LVRY",
+      "page": 97
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Sports Car Challenge by Falken Tyre",
+      "page": 98
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Stock Car Brasil",
+      "page": 99
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Supercars Series",
+      "page": 100
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Supercars Series - Australian Servers",
+      "page": 101
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Global Endurance Tour",
+      "page": 102
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for GT Sprint Series by Simucube",
+      "page": 103
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for GTE Sprint Series",
+      "page": 109
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for IMSA Endurance Series",
+      "page": 111
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for iRacing DTM Series",
+      "page": 112
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for iRacing GT3 Regional Tour - Americas",
+      "page": 114
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for iRacing GT3 Regional Tour - Asia Pacific",
+      "page": 117
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for iRacing GT3 Regional Tour - Europe",
+      "page": 120
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Proto-GT Challenge",
+      "page": 124
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for IMSA iRacing Series",
+      "page": 127
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Formula 1600 Rookie Series by Asetek Racing",
+      "page": 134
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Formula Vee Series by trophi.ai",
+      "page": 135
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for FIA F4 Esports Regional Tour - America",
+      "page": 136
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for FIA F4 Esports Regional Tour - Asia Pacific",
+      "page": 137
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for FIA F4 Esports Regional Tour - Europe",
+      "page": 138
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Motorsport UK FF 1600 Trophy by Thrustmaster",
+      "page": 140
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Skip Barber Race Series",
+      "page": 141
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Dallara Formula iR",
+      "page": 143
+    },
+    {
+      "code": "startTypeUnknown",
+      "message": "Start type needs manual review for Dallara Formula iR",
+      "page": 143
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Formula C - Dallara F3 Series",
+      "page": 145
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Formula C - Super Formula Lights by RSS",
+      "page": 148
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Indy NXT iRacing Series",
+      "page": 149
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for INDYCAR iRacing Series",
+      "page": 151
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for iRacing Formula A - Grand Prix Tour",
+      "page": 152
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for iRacing Lotus 79 Grand Prix Series",
+      "page": 153
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Lotus 49 Grand Prix Legends",
+      "page": 154
+    },
+    {
+      "code": "startTypeUnknown",
+      "message": "Start type needs manual review for Lotus 49 Grand Prix Legends",
+      "page": 154
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Vintage Grand Prix Tour",
+      "page": 155
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Formula B - Super Formula Series",
+      "page": 157
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for INDYCAR Series",
+      "page": 158
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Formula A - Cosworth Cup Grand Prix",
+      "page": 160
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Dirt Mini Stock Rookie Series",
+      "page": 162
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for DIRTcar Street Stock Rookie by IMB Racewear",
+      "page": 162
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Micro Non Wing Sprint Car Rookie Series",
+      "page": 163
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Micro Winged Sprint Car Rookie by Thrustmaster",
+      "page": 163
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Dirt Legends Cup",
+      "page": 164
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for DIRTcar 358 Modified Series",
+      "page": 165
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Big Block Modified Series",
+      "page": 167
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Dirt Midget Cup",
+      "page": 171
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for DIRTcar 360 Sprint Car Series",
+      "page": 175
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for DIRTcar Pro Late Model Series",
+      "page": 178
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Outlaw Micro Showdown",
+      "page": 181
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for USAC 360 Sprint Car Series",
+      "page": 182
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for DIRTcar UMP Modified Series",
+      "page": 184
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for World of Outlaws Late Model Series",
+      "page": 185
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for World of Outlaws Sprint Car Series",
+      "page": 187
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for FIA Cross Car Championship",
+      "page": 189
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Pro 2 Lite Off-Road Rookie Series by Trak Racer",
+      "page": 190
+    },
+    {
+      "code": "startTypeUnknown",
+      "message": "Start type needs manual review for Pro 2 Lite Off-Road Rookie Series by Trak Racer",
+      "page": 190
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for VW Lite iRX Rookie Series by Trak Racer",
+      "page": 191
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Advanced Pro2 Lite Off Road Series by Trak Racer",
+      "page": 192
+    },
+    {
+      "code": "startTypeUnknown",
+      "message": "Start type needs manual review for Advanced Pro2 Lite Off Road Series by Trak Racer",
+      "page": 192
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for iRX Volkswagen Beetle Lite Series by Trak Racer",
+      "page": 193
+    },
+    {
+      "code": "startTypeUnknown",
+      "message": "Start type needs manual review for Pro 4 Off-Road Series - Fixed by Trak Racer",
+      "page": 194
+    },
+    {
+      "code": "startTypeUnknown",
+      "message": "Start type needs manual review for Pro 2 Off-Road Series - Fixed by Trak Racer",
+      "page": 195
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Rallycross Series by Trak Racer",
+      "page": 197
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for Dallara DW12 Dash",
+      "page": 198
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for NASCAR Carburetor Cup",
+      "page": 199
+    },
+    {
+      "code": "fixedSetupUnknown",
+      "message": "Fixed/open setup needs manual review for NASCAR Pickup Cup",
+      "page": 200
+    }
+  ]
+}

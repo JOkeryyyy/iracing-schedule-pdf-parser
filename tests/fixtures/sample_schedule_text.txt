@@ -1,0 +1,29 @@
+OVAL
+R Class Series (OVAL)
+Mini Stock Rookie Series by Thrustmaster - 2026 Season 3
+Mini Stock
+Rookie 1.0 --> Pro/WC 4.0
+Races every 30 minutes at :15 and :45
+Min entries for official: 6 | Split at: 14 | Drops: 4
+No incident DT penalties. DQ at 17 incidents.
+Week 1 (2026-06-16) Charlotte Motor Speedway  - Oval
+(2026-06-20 15:40 1x)
+80°F/26°C, Rain chance None, Rolling
+start, Cautions disabled, Qual scrutiny
+- Permissive.
+15 laps
+Week 2 (2026-06-23) Langley Speedway
+(2026-06-27 15:20 1x)
+86°F/30°C, Rain chance None, Rolling
+start, Cautions disabled, Qual scrutiny
+- Permissive.
+35 laps
+ARCA Menards Series - 2026 Season 3 - Fixed
+ARCA
+Rookie 4.0 --> Pro/WC 4.0
+Races every hour at :45 past
+Min entries for official: 6 | Split at: 20 | Drops: 4
+Week 1 (2026-06-16) Daytona International Speedway - Oval
+82°F/28°C, Rain chance 15%, Standing
+start, Cautions enabled.
+30 laps

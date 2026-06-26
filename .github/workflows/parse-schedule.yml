@@ -1,0 +1,62 @@
+name: Parse schedule PDF
+
+on:
+  push:
+    paths:
+      - ".github/workflows/parse-schedule.yml"
+      - "data/source/SeasonSchedule.pdf"
+      - "pdf_schedule_parser/**"
+      - "tests/**"
+      - "pyproject.toml"
+      - "parse_schedule_pdf.py"
+  pull_request:
+    paths:
+      - ".github/workflows/parse-schedule.yml"
+      - "data/source/SeasonSchedule.pdf"
+      - "pdf_schedule_parser/**"
+      - "tests/**"
+      - "pyproject.toml"
+      - "parse_schedule_pdf.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  parse:
+    name: Test and parse schedule
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install parser
+        run: python -m pip install -e .
+
+      - name: Run tests
+        run: python -m unittest discover -s tests
+
+      - name: Parse committed PDF
+        run: python -m pdf_schedule_parser.cli data/source/SeasonSchedule.pdf --output-dir data/generated
+
+      - name: Upload generated JSON
+        uses: actions/upload-artifact@v4
+        with:
+          name: schedule-json
+          path: data/generated/*.json
+          if-no-files-found: error
+
+      - name: Commit generated JSON
+        if: github.event_name == 'push' && github.ref_name != 'main'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update generated schedule json"
+          file_pattern: data/generated/*.json

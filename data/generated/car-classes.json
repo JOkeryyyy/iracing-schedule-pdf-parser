@@ -1,0 +1,915 @@
+{
+  "carClasses": [
+    {
+      "carIds": [
+        "car_arca_chevrolet_ss_arca_ford_mustang_arca_toyota_camry"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_arca_chevrolet_ss_arca_ford_mustang_arca_toyota_camry",
+      "mappingStatus": "fallback",
+      "name": "Arca Chevrolet SS Arca Ford Mustang Arca Toyota Camry"
+    },
+    {
+      "carIds": [
+        "car_bmw_m2_racing_g87"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_bmw_m2_racing_g87",
+      "mappingStatus": "fallback",
+      "name": "BMW M2 Racing G87"
+    },
+    {
+      "carIds": [
+        "car_bmw_m2_racing_g87_toyota_gr86_renault_clio_global_mazda_mx_5"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_bmw_m2_racing_g87_toyota_gr86_renault_clio_global_mazda_mx_5",
+      "mappingStatus": "fallback",
+      "name": "BMW M2 Racing G87 Toyota Gr86 Renault Clio Global Mazda MX 5"
+    },
+    {
+      "carIds": [
+        "car_cadillac_cts_v_racecar_kia_optima"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_cadillac_cts_v_racecar_kia_optima",
+      "mappingStatus": "fallback",
+      "name": "Cadillac CTS V Racecar KIA Optima"
+    },
+    {
+      "carIds": [
+        "car_dallara_f3"
+      ],
+      "disciplines": [
+        "formula_car"
+      ],
+      "id": "car_class_dallara_f3",
+      "mappingStatus": "fallback",
+      "name": "Dallara F3"
+    },
+    {
+      "carIds": [
+        "car_dallara_il_15"
+      ],
+      "disciplines": [
+        "formula_car",
+        "oval"
+      ],
+      "id": "car_class_dallara_il_15",
+      "mappingStatus": "fallback",
+      "name": "Dallara IL 15"
+    },
+    {
+      "carIds": [
+        "car_dallara_ir18"
+      ],
+      "disciplines": [
+        "formula_car",
+        "oval"
+      ],
+      "id": "car_class_dallara_ir18",
+      "mappingStatus": "fallback",
+      "name": "Dallara Ir18"
+    },
+    {
+      "carIds": [
+        "car_dallara_ir_01"
+      ],
+      "disciplines": [
+        "formula_car"
+      ],
+      "id": "car_class_dallara_ir_01",
+      "mappingStatus": "fallback",
+      "name": "Dallara IR 01"
+    },
+    {
+      "carIds": [
+        "car_dallara_p217"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_dallara_p217",
+      "mappingStatus": "fallback",
+      "name": "Dallara P217"
+    },
+    {
+      "carIds": [
+        "car_dirt_358_modified"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_358_modified",
+      "mappingStatus": "fallback",
+      "name": "Dirt 358 Modified"
+    },
+    {
+      "carIds": [
+        "car_dirt_big_block_modified"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_big_block_modified",
+      "mappingStatus": "fallback",
+      "name": "Dirt BIG Block Modified"
+    },
+    {
+      "carIds": [
+        "car_dirt_late_model_limited"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_late_model_limited",
+      "mappingStatus": "fallback",
+      "name": "Dirt Late Model Limited"
+    },
+    {
+      "carIds": [
+        "car_dirt_late_model_pro"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_late_model_pro",
+      "mappingStatus": "fallback",
+      "name": "Dirt Late Model PRO"
+    },
+    {
+      "carIds": [
+        "car_dirt_late_model_super"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_late_model_super",
+      "mappingStatus": "fallback",
+      "name": "Dirt Late Model Super"
+    },
+    {
+      "carIds": [
+        "car_dirt_legends_ford_34_coupe"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_legends_ford_34_coupe",
+      "mappingStatus": "fallback",
+      "name": "Dirt Legends Ford 34 Coupe"
+    },
+    {
+      "carIds": [
+        "car_dirt_micro_sprint_car_non_winged"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_micro_sprint_car_non_winged",
+      "mappingStatus": "fallback",
+      "name": "Dirt Micro Sprint CAR NON Winged"
+    },
+    {
+      "carIds": [
+        "car_dirt_micro_sprint_car_winged"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_micro_sprint_car_winged",
+      "mappingStatus": "fallback",
+      "name": "Dirt Micro Sprint CAR Winged"
+    },
+    {
+      "carIds": [
+        "car_dirt_midget"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_midget",
+      "mappingStatus": "fallback",
+      "name": "Dirt Midget"
+    },
+    {
+      "carIds": [
+        "car_dirt_mini_stock"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_mini_stock",
+      "mappingStatus": "fallback",
+      "name": "Dirt Mini Stock"
+    },
+    {
+      "carIds": [
+        "car_dirt_sprint_car_305"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_sprint_car_305",
+      "mappingStatus": "fallback",
+      "name": "Dirt Sprint CAR 305"
+    },
+    {
+      "carIds": [
+        "car_dirt_sprint_car_360"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_sprint_car_360",
+      "mappingStatus": "fallback",
+      "name": "Dirt Sprint CAR 360"
+    },
+    {
+      "carIds": [
+        "car_dirt_sprint_car_360_non_winged"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_sprint_car_360_non_winged",
+      "mappingStatus": "fallback",
+      "name": "Dirt Sprint CAR 360 NON Winged"
+    },
+    {
+      "carIds": [
+        "car_dirt_sprint_car_410"
+      ],
+      "disciplines": [
+        "dirt_oval",
+        "dirt_road"
+      ],
+      "id": "car_class_dirt_sprint_car_410",
+      "mappingStatus": "fallback",
+      "name": "Dirt Sprint CAR 410"
+    },
+    {
+      "carIds": [
+        "car_dirt_street_stock"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_street_stock",
+      "mappingStatus": "fallback",
+      "name": "Dirt Street Stock"
+    },
+    {
+      "carIds": [
+        "car_dirt_ump_modified"
+      ],
+      "disciplines": [
+        "dirt_oval"
+      ],
+      "id": "car_class_dirt_ump_modified",
+      "mappingStatus": "fallback",
+      "name": "Dirt UMP Modified"
+    },
+    {
+      "carIds": [
+        "car_euro_nascar_v8gp"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_euro_nascar_v8gp",
+      "mappingStatus": "fallback",
+      "name": "Euro Nascar V8gp"
+    },
+    {
+      "carIds": [
+        "car_ferrari_296_challenge"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_ferrari_296_challenge",
+      "mappingStatus": "fallback",
+      "name": "Ferrari 296 Challenge"
+    },
+    {
+      "carIds": [
+        "car_fia_cross_car"
+      ],
+      "disciplines": [
+        "dirt_road"
+      ],
+      "id": "car_class_fia_cross_car",
+      "mappingStatus": "fallback",
+      "name": "FIA Cross CAR"
+    },
+    {
+      "carIds": [
+        "car_fia_f4"
+      ],
+      "disciplines": [
+        "formula_car"
+      ],
+      "id": "car_class_fia_f4",
+      "mappingStatus": "fallback",
+      "name": "FIA F4"
+    },
+    {
+      "carIds": [
+        "car_ford_gte_ferrari_488_gte_bmw_m8_gte_chevrolet_corvette_c8_r_gte"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_ford_gte_ferrari_488_gte_bmw_m8_gte_chevrolet_corvette_c8_r_gte",
+      "mappingStatus": "fallback",
+      "name": "Ford GTE Ferrari 488 GTE BMW M8 GTE Chevrolet Corvette C8 R GTE"
+    },
+    {
+      "carIds": [
+        "car_ford_mustang_gt4"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_ford_mustang_gt4",
+      "mappingStatus": "fallback",
+      "name": "Ford Mustang GT4"
+    },
+    {
+      "carIds": [
+        "car_ford_mustang_gt4_mercedes_amg_gt4_bmw_m4_g82_gt4_evo_aston"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_ford_mustang_gt4_mercedes_amg_gt4_bmw_m4_g82_gt4_evo_aston",
+      "mappingStatus": "fallback",
+      "name": "Ford Mustang GT4 Mercedes AMG GT4 BMW M4 G82 GT4 EVO Aston"
+    },
+    {
+      "carIds": [
+        "car_formula_vee_classic_formula_vee_cutlass_formula_vee_conqueror"
+      ],
+      "disciplines": [
+        "formula_car"
+      ],
+      "id": "car_class_formula_vee_classic_formula_vee_cutlass_formula_vee_conqueror",
+      "mappingStatus": "fallback",
+      "name": "Formula VEE Classic Formula VEE Cutlass Formula VEE Conqueror"
+    },
+    {
+      "carIds": [
+        "car_gen_4_chevrolet_monte_carlo_2003_gen_4_ford_taurus_2003"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_gen_4_chevrolet_monte_carlo_2003_gen_4_ford_taurus_2003",
+      "mappingStatus": "fallback",
+      "name": "GEN 4 Chevrolet Monte Carlo 2003 GEN 4 Ford Taurus 2003"
+    },
+    {
+      "carIds": [
+        "car_global_mazda_mx_5_cup"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_global_mazda_mx_5_cup",
+      "mappingStatus": "fallback",
+      "name": "Global Mazda MX 5 CUP"
+    },
+    {
+      "carIds": [
+        "car_hpd_arx_01c_aston_martin_dbr9_gt1_chevrolet_corvette_c6_r_gt1"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_hpd_arx_01c_aston_martin_dbr9_gt1_chevrolet_corvette_c6_r_gt1",
+      "mappingStatus": "fallback",
+      "name": "HPD ARX 01C Aston Martin Dbr9 GT1 Chevrolet Corvette C6 R GT1"
+    },
+    {
+      "carIds": [
+        "car_hyundai_elantra_n_tcr_audi_rs3_lms_gen2_tcr_honda_civic_type_r"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_hyundai_elantra_n_tcr_audi_rs3_lms_gen2_tcr_honda_civic_type_r",
+      "mappingStatus": "fallback",
+      "name": "Hyundai Elantra N TCR Audi RS3 LMS Gen2 TCR Honda Civic Type R"
+    },
+    {
+      "carIds": [
+        "car_indy_pro_2000_pm_18"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_indy_pro_2000_pm_18",
+      "mappingStatus": "fallback",
+      "name": "Indy PRO 2000 PM 18"
+    },
+    {
+      "carIds": [
+        "car_late_model_stock"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_late_model_stock",
+      "mappingStatus": "fallback",
+      "name": "Late Model Stock"
+    },
+    {
+      "carIds": [
+        "car_legacy_dallara_dw12"
+      ],
+      "disciplines": [
+        "unranked"
+      ],
+      "id": "car_class_legacy_dallara_dw12",
+      "mappingStatus": "fallback",
+      "name": "Legacy Dallara Dw12"
+    },
+    {
+      "carIds": [
+        "car_legacy_nascar_truck_chevrolet_silverado_2008"
+      ],
+      "disciplines": [
+        "unranked"
+      ],
+      "id": "car_class_legacy_nascar_truck_chevrolet_silverado_2008",
+      "mappingStatus": "fallback",
+      "name": "Legacy Nascar Truck Chevrolet Silverado 2008"
+    },
+    {
+      "carIds": [
+        "car_legends_ford_34_coupe"
+      ],
+      "disciplines": [
+        "oval",
+        "sports_car"
+      ],
+      "id": "car_class_legends_ford_34_coupe",
+      "mappingStatus": "fallback",
+      "name": "Legends Ford 34 Coupe"
+    },
+    {
+      "carIds": [
+        "car_ligier_js_p320"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_ligier_js_p320",
+      "mappingStatus": "fallback",
+      "name": "Ligier JS P320"
+    },
+    {
+      "carIds": [
+        "car_ligier_js_p320_ford_mustang_gt4_mercedes_amg_gt4_bmw_m4_g82_gt4"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_ligier_js_p320_ford_mustang_gt4_mercedes_amg_gt4_bmw_m4_g82_gt4",
+      "mappingStatus": "fallback",
+      "name": "Ligier JS P320 Ford Mustang GT4 Mercedes AMG GT4 BMW M4 G82 GT4"
+    },
+    {
+      "carIds": [
+        "car_lotus_49"
+      ],
+      "disciplines": [
+        "formula_car"
+      ],
+      "id": "car_class_lotus_49",
+      "mappingStatus": "fallback",
+      "name": "Lotus 49"
+    },
+    {
+      "carIds": [
+        "car_lotus_79"
+      ],
+      "disciplines": [
+        "formula_car"
+      ],
+      "id": "car_class_lotus_79",
+      "mappingStatus": "fallback",
+      "name": "Lotus 79"
+    },
+    {
+      "carIds": [
+        "car_lucas_oil_off_road_pro_2_lite"
+      ],
+      "disciplines": [
+        "dirt_road"
+      ],
+      "id": "car_class_lucas_oil_off_road_pro_2_lite",
+      "mappingStatus": "fallback",
+      "name": "Lucas OIL OFF Road PRO 2 Lite"
+    },
+    {
+      "carIds": [
+        "car_lucas_oil_off_road_pro_2_truck"
+      ],
+      "disciplines": [
+        "dirt_road"
+      ],
+      "id": "car_class_lucas_oil_off_road_pro_2_truck",
+      "mappingStatus": "fallback",
+      "name": "Lucas OIL OFF Road PRO 2 Truck"
+    },
+    {
+      "carIds": [
+        "car_lucas_oil_off_road_pro_4_truck"
+      ],
+      "disciplines": [
+        "dirt_road"
+      ],
+      "id": "car_class_lucas_oil_off_road_pro_4_truck",
+      "mappingStatus": "fallback",
+      "name": "Lucas OIL OFF Road PRO 4 Truck"
+    },
+    {
+      "carIds": [
+        "car_mercedes_amg_gt3_2020_ferrari_296_gt3_aston_martin_vantage_gt3"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_mercedes_amg_gt3_2020_ferrari_296_gt3_aston_martin_vantage_gt3",
+      "mappingStatus": "fallback",
+      "name": "Mercedes AMG GT3 2020 Ferrari 296 GT3 Aston Martin Vantage GT3"
+    },
+    {
+      "carIds": [
+        "car_mercedes_amg_gt3_2020_mclaren_720s_gt3_evo_ferrari_296_gt3_aston"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_mercedes_amg_gt3_2020_mclaren_720s_gt3_evo_ferrari_296_gt3_aston",
+      "mappingStatus": "fallback",
+      "name": "Mercedes AMG GT3 2020 Mclaren 720s GT3 EVO Ferrari 296 GT3 Aston"
+    },
+    {
+      "carIds": [
+        "car_mercedes_amg_w13_e_performance"
+      ],
+      "disciplines": [
+        "dirt_oval",
+        "formula_car"
+      ],
+      "id": "car_class_mercedes_amg_w13_e_performance",
+      "mappingStatus": "fallback",
+      "name": "Mercedes AMG W13 E Performance"
+    },
+    {
+      "carIds": [
+        "car_mini_stock"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_mini_stock",
+      "mappingStatus": "fallback",
+      "name": "Mini Stock"
+    },
+    {
+      "carIds": [
+        "car_modified_nascar_whelen_tour"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_modified_nascar_whelen_tour",
+      "mappingStatus": "fallback",
+      "name": "Modified Nascar Whelen Tour"
+    },
+    {
+      "carIds": [
+        "car_modified_sk"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_modified_sk",
+      "mappingStatus": "fallback",
+      "name": "Modified SK"
+    },
+    {
+      "carIds": [
+        "car_nascar_cup_series_next_gen_chevrolet_camaro_zl1_nascar_cup"
+      ],
+      "disciplines": [
+        "oval",
+        "unranked"
+      ],
+      "id": "car_class_nascar_cup_series_next_gen_chevrolet_camaro_zl1_nascar_cup",
+      "mappingStatus": "fallback",
+      "name": "Nascar CUP Series Next GEN Chevrolet Camaro ZL1 Nascar CUP"
+    },
+    {
+      "carIds": [
+        "car_nascar_legends_chevrolet_monte_carlo_1987_nascar_legends_ford"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_nascar_legends_chevrolet_monte_carlo_1987_nascar_legends_ford",
+      "mappingStatus": "fallback",
+      "name": "Nascar Legends Chevrolet Monte Carlo 1987 Nascar Legends Ford"
+    },
+    {
+      "carIds": [
+        "car_nascar_o_reilly_chevrolet_camaro_nascar_o_reilly_ford_mustang"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_nascar_o_reilly_chevrolet_camaro_nascar_o_reilly_ford_mustang",
+      "mappingStatus": "fallback",
+      "name": "Nascar O Reilly Chevrolet Camaro Nascar O Reilly Ford Mustang"
+    },
+    {
+      "carIds": [
+        "car_nascar_truck_ford_f150_nascar_truck_toyota_tundra_trd_pro"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_nascar_truck_ford_f150_nascar_truck_toyota_tundra_trd_pro",
+      "mappingStatus": "fallback",
+      "name": "Nascar Truck Ford F150 Nascar Truck Toyota Tundra TRD PRO"
+    },
+    {
+      "carIds": [
+        "car_nissan_gtp_zx_t_audi_90_gto"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_nissan_gtp_zx_t_audi_90_gto",
+      "mappingStatus": "fallback",
+      "name": "Nissan GTP ZX T Audi 90 GTO"
+    },
+    {
+      "carIds": [
+        "car_porsche_911_cup_992_2"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_porsche_911_cup_992_2",
+      "mappingStatus": "fallback",
+      "name": "Porsche 911 CUP 992 2"
+    },
+    {
+      "carIds": [
+        "car_porsche_963_gtp_bmw_m_hybrid_v8_evo_ferrari_499p_cadillac_v"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_porsche_963_gtp_bmw_m_hybrid_v8_evo_ferrari_499p_cadillac_v",
+      "mappingStatus": "fallback",
+      "name": "Porsche 963 GTP BMW M Hybrid V8 EVO Ferrari 499p Cadillac V"
+    },
+    {
+      "carIds": [
+        "car_porsche_mission_r"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_porsche_mission_r",
+      "mappingStatus": "fallback",
+      "name": "Porsche Mission R"
+    },
+    {
+      "carIds": [
+        "car_radical_sr10"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_radical_sr10",
+      "mappingStatus": "fallback",
+      "name": "Radical Sr10"
+    },
+    {
+      "carIds": [
+        "car_ray_ff1600"
+      ],
+      "disciplines": [
+        "formula_car"
+      ],
+      "id": "car_class_ray_ff1600",
+      "mappingStatus": "fallback",
+      "name": "RAY Ff1600"
+    },
+    {
+      "carIds": [
+        "car_renault_clio"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_renault_clio",
+      "mappingStatus": "fallback",
+      "name": "Renault Clio"
+    },
+    {
+      "carIds": [
+        "car_scca_spec_racer_ford"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_scca_spec_racer_ford",
+      "mappingStatus": "fallback",
+      "name": "Scca Spec Racer Ford"
+    },
+    {
+      "carIds": [
+        "car_see_race_week_for_cars_in_use_that_week"
+      ],
+      "disciplines": [
+        "dirt_oval",
+        "oval",
+        "sports_car"
+      ],
+      "id": "car_class_see_race_week_for_cars_in_use_that_week",
+      "mappingStatus": "fallback",
+      "name": "SEE Race Week FOR Cars IN USE That Week"
+    },
+    {
+      "carIds": [
+        "car_silver_crown"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_silver_crown",
+      "mappingStatus": "fallback",
+      "name": "Silver Crown"
+    },
+    {
+      "carIds": [
+        "car_skip_barber_formula_2000"
+      ],
+      "disciplines": [
+        "formula_car"
+      ],
+      "id": "car_class_skip_barber_formula_2000",
+      "mappingStatus": "fallback",
+      "name": "Skip Barber Formula 2000"
+    },
+    {
+      "carIds": [
+        "car_sprint_car"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_sprint_car",
+      "mappingStatus": "fallback",
+      "name": "Sprint CAR"
+    },
+    {
+      "carIds": [
+        "car_srx"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_srx",
+      "mappingStatus": "fallback",
+      "name": "SRX"
+    },
+    {
+      "carIds": [
+        "car_stock_car_brasil_chevrolet_cruze_stock_car_brasil_toyota_corolla"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_stock_car_brasil_chevrolet_cruze_stock_car_brasil_toyota_corolla",
+      "mappingStatus": "fallback",
+      "name": "Stock CAR Brasil Chevrolet Cruze Stock CAR Brasil Toyota Corolla"
+    },
+    {
+      "carIds": [
+        "car_street_stock_eagle_t3_street_stock_panther_c1_street_stock_casino"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_street_stock_eagle_t3_street_stock_panther_c1_street_stock_casino",
+      "mappingStatus": "fallback",
+      "name": "Street Stock Eagle T3 Street Stock Panther C1 Street Stock Casino"
+    },
+    {
+      "carIds": [
+        "car_super_formula_lights"
+      ],
+      "disciplines": [
+        "formula_car"
+      ],
+      "id": "car_class_super_formula_lights",
+      "mappingStatus": "fallback",
+      "name": "Super Formula Lights"
+    },
+    {
+      "carIds": [
+        "car_super_formula_sf23_toyota_super_formula_sf23_honda"
+      ],
+      "disciplines": [
+        "formula_car"
+      ],
+      "id": "car_class_super_formula_sf23_toyota_super_formula_sf23_honda",
+      "mappingStatus": "fallback",
+      "name": "Super Formula Sf23 Toyota Super Formula Sf23 Honda"
+    },
+    {
+      "carIds": [
+        "car_super_late_model"
+      ],
+      "disciplines": [
+        "oval"
+      ],
+      "id": "car_class_super_late_model",
+      "mappingStatus": "fallback",
+      "name": "Super Late Model"
+    },
+    {
+      "carIds": [
+        "car_supercars_ford_mustang_gen_3_supercars_chevrolet_camaro_gen_3"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_supercars_ford_mustang_gen_3_supercars_chevrolet_camaro_gen_3",
+      "mappingStatus": "fallback",
+      "name": "Supercars Ford Mustang GEN 3 Supercars Chevrolet Camaro GEN 3"
+    },
+    {
+      "carIds": [
+        "car_toyota_gr86"
+      ],
+      "disciplines": [
+        "sports_car"
+      ],
+      "id": "car_class_toyota_gr86",
+      "mappingStatus": "fallback",
+      "name": "Toyota Gr86"
+    },
+    {
+      "carIds": [
+        "car_usf_2000"
+      ],
+      "disciplines": [
+        "formula_car"
+      ],
+      "id": "car_class_usf_2000",
+      "mappingStatus": "fallback",
+      "name": "USF 2000"
+    },
+    {
+      "carIds": [
+        "car_vw_beetle_ford_fiesta_rs_wrc_subaru_wrx_sti"
+      ],
+      "disciplines": [
+        "dirt_road"
+      ],
+      "id": "car_class_vw_beetle_ford_fiesta_rs_wrc_subaru_wrx_sti",
+      "mappingStatus": "fallback",
+      "name": "VW Beetle Ford Fiesta RS WRC Subaru WRX STI"
+    },
+    {
+      "carIds": [
+        "car_vw_beetle_lite"
+      ],
+      "disciplines": [
+        "dirt_road"
+      ],
+      "id": "car_class_vw_beetle_lite",
+      "mappingStatus": "fallback",
+      "name": "VW Beetle Lite"
+    }
+  ],
+  "schemaVersion": 1
+}

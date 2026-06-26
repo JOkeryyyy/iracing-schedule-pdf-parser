@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+output/
+_old_pdf_schedule_parser_artifacts/
